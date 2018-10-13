@@ -419,11 +419,11 @@ A polearm shall be constructed so as to emulate a medieval example.  Allowable e
                 1.  A hold will not be called for fighters who lose their weapon in melee.
         1.  Conventions of Combat for Combat Archery
             1.  The legal target area for projectile weapons shall be same as any thrusting weapon that is legal in a given scenario.  Exception: At the discretion of the MIC, projectile strikes to the face may be made legal, even in scenarios where face thrusts are prohibited.
-            1.  Archers shall not fire at a combatant if the arrow/bolt cannot leave the bow before contact with the target. For rapier combat, crossbows, and handbows shall not fire at a combatant at a range of less than 15 feet.
-            1.  On the cry of hold or when slain, all arrows will be unnocked.
+            1.  Archers shall not fire at a combatant if the arrow/bolt cannot leave the bow before contact with the target. For rapier combat, crossbows and handbows shall not fire at a combatant at a range of less than 15 feet.
+            1.  On the cry of hold or when slain, all arrows will be unnocked, and crossbows will be uncocked.
             1.  Any projectile that strikes a legal target area, unimpeded and point first, shall be considered as telling.  Any projectile that is blocked, deflected, or which strikes in any manner other than point (or edge) first need not be counted.
             1.  Any bow which is struck by a projectile or melee weapon shall be considered as broken and unusable until a qualified marshal inspects the bow. A qualified marshal is a warranted combat archery marshal or a warranted target archery marshal.
-            1.  Reserved
+            1.  Safety Area for Combat Archery will be a minimum of 10 yards from combat area for non-combatant area.
             1. For rapier combat, rapier conventions of combat are to be used. In addition, maximum draw weight for crossbows in rapier will be 550 inch/pounds.
             1.  A combat archer (or any other combatant) may yield. If a combatant yields, then he should not be touched.
             1.  Engagement with missile weapons: An archer need not have eye contact with an opponent in order to shoot at them, but should be able to see their face or the front of their body when targeting them.  Inadvertent strikes in the back (such as when the target turns away after the missile is loosed, or when the missile strikes an unintended enemy or friendly target) still count if they are recognized, but it should be expected that, in some cases, the target may not realize they have been struck.
