@@ -688,7 +688,8 @@ a horse is not allowed. All other enclosures are allowed at the discretion of th
         1.   Rapier Combat Weapons and Armor Standards
             1.  Atlantia follows the Corporate Rules for Rapier in the Society for Creative Anachronism, Incorporated (found at the Society Marshals Web Site at [(http://www.sca.org/officers/marshal/combat/rapier/index.html),](http://www.sca.org/officers/marshal/combat/rapier/index.html) including cut and thrust rapier, with the following modifications:
                 1.  No fiberglass blades are allowed.
-                1.  Fighters who choose to participate in Cut & Thrust combat acknowledge that they will be struck with a harder blow than they would normally receive in heavy or light rapier combat, and they should act with the interest of the safety of their opponent in mind.
+                1.  No spears are allowed.
+                1.  Fighters who choose to participate in Cut & Thrust combat acknowledge that they may be struck with a harder blow than they would normally receive in heavy or light rapier combat, and they should act with the interest of the safety of their opponent in mind.
                 1.  In addition to the Society requirements, for cut and thrust rapier combat, the back of the head must also be covered by rigid material, lined by at least 1/4 inch (6mm) of closed cell foam or an equivalent padding.
                 1.  In addition to the Society requirements, all heavy rapier and cut and thrust blade tips must include adequate protection against punch-through of the blade. This may include:
                     * A metal disc (such as a washer) placed between the end of the blade and the tip.
