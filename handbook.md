@@ -1,7 +1,7 @@
 ---
 title: The Policies of the Kingdom Earl Marshal
 author: Kingdom Earl Marshal of Atlantia
-date: November 11, 2018
+date: December 1, 2018
 output: pdf_document
 ---
 
