@@ -166,7 +166,7 @@ a written request to the Earl Marshal containing all of his or her contact infor
                 1.  Kingdom Deputy Marshals serve at the pleasure of the Earl Marshal.
                 1.  The Earl Marshal must annually audit the roster, and any individual no longer meeting the required attributes of a Marshal will have his or her warrant terminated.  The KEM must submit the roster of Marshals to the Crown once per reign.  This will usually happen at Curia Regis, or at Coronation on request of the incoming Crown.
             1.  Reporting
-                1.  Event Reports An event report must be filed by the MIC-Event within 10 days of each event (except where required to file a special report earlier due to problem resolution) and must include the following information.  Event reports must be filed in writing and must include any supporting documentation as necessary.
+                1.  Event Reports An event report must be filed by the MIC-Event within 7 days of each event (except where required to file a special report earlier due to problem resolution) and must include the following information.  Event reports must be filed in writing and must include any supporting documentation as necessary.
                     1.  The name of the Marshal in Charge of the Event submitting the report, and the Minister of the Lists.
                     1.  The name of all marshals (incl. apprentices) and the capacity in which they served.
                     1.  A list of all authorization attempts including weapon form and result.
@@ -180,7 +180,7 @@ a written request to the Earl Marshal containing all of his or her contact infor
                     1.  In the event that no fighter practice waivers have been collected at official local fighter practices, a fighter practice waiver report indicating this will be submitted by the Knight's Marshal of the group on the above schedule.  An electronic fighter practice waiver report may be accepted at the discretion of the Kingdom Waiver Secretary in the event that no waivers have been collected.
                 1.  Filing Reports Reports may be filed by US Mail; UPS (or other delivery service which does not require a signature for delivery); by email to the Earl Marshal at EarlMarshal@atlantia.sca.org; or by a form in the appropriate section of the Atlantian Marshal's Website. Reports may be filed by other methods on a case-by-case basis, but only with the approval of the Earl Marshal.  These methods may include fax, same day delivery requiring signature, or hand delivery to the Earl Marshal.
                 1.  Incident Reports Anyone may file an incident report for any problem that they perceive in the execution of combat activities.  This includes: reports by participants about marshals at an event, reports about participants by participants at an event, reports by marshals about participants outside events (specifically including practices announced in the group newsletter), and reports by marshals (other than the MIC-Event) concerning problems with other marshals.  The following guidelines govern incident reports:
-                     * Incident reports must be filed within 10 days of the incident
+                     * Incident reports must be filed within 7 days of the incident
                     * Incident reports must include the name of the filing individual
                     * The name of the offending individuals (if appropriate)
                     * The names of witnesses (if any)
