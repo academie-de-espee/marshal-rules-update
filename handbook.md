@@ -300,7 +300,11 @@ a written request to the Earl Marshal containing all of his or her contact infor
             1.  All of the paperwork involved in the minor's authorization must be reviewed by the Earl Marshal or designated Deputy Earl Marshal before being processed by the Minister of Lists.
             1.  The front half of the helms and masks of sixteen and seventeen year olds who participate in combat activities, either as armored, rapier or equestrian combatants, combat archers or siege engineers, must be clearly marked with three green dots, no less than 1" in diameter, arranged in a triangular formation forming a trefoil.
     1. Weapons and Armor Standards
-        1.  All equipment on the field of combat will be inspected for compliance with Kingdom Law section 10.1.4, which requires items to present a period appearance.  For specifics and examples of this requirement, please refer to the Earl Marshal's Web Site --[ http://marshal.atlantia.sca.org/.](http://marshal.atlantia.sca.org/)
+        1. Appearance on the List Field. All equipment or clothing used by participants on the list field must either have a pre-17th Century appearance or be covered in a manner to present such an appearance.
+            1. The purpose of this law is not to exclude participants from the list, but to encourage the historical appearance of events. These rules shall be applied with discretion and good judgment to encourage rather than to discourage.
+            1. Participants who are residents of another kingdom are considered our guests and are exempt from this ruling provided they meet Society minimum standards.
+            1. Newly transplanted subjects of Atlantia are to be granted a four month period of time to come into compliance with these laws.
+            1. For specifics and examples of this requirement, please refer to the Earl Marshal’s Web Site – http://marshal.atlantia.sca.org/.
         1.  Armored Combat Weapons and Armor Standards
             1.  Armor Regulations. Atlantia uses the SCA regulations without additions.
             1.  Armor Inspections. All participants must have their arms and armor inspected by a warranted marshal before participating in combat at each event, practice, or other official activity.
@@ -415,12 +419,12 @@ A polearm shall be constructed so as to emulate a medieval example.  Allowable e
                 1.  A hold will not be called for fighters who lose their weapon in melee.
         1.  Conventions of Combat for Combat Archery
             1.  The legal target area for projectile weapons shall be same as any thrusting weapon that is legal in a given scenario.  Exception: At the discretion of the MIC, projectile strikes to the face may be made legal, even in scenarios where face thrusts are prohibited.
-            1.  Archers shall not fire at a combatant if the arrow/bolt cannot leave the bow before contact with the target.  For rapier combat, crossbows shall not fire at a combatant at a range of less than 15 feet.
-            1.  On the cry of hold or when slain, all arrows will be unnocked, and crossbows will be uncocked.
+            1.  Archers shall not fire at a combatant if the arrow/bolt cannot leave the bow before contact with the target. For rapier combat, crossbows, and handbows shall not fire at a combatant at a range of less than 15 feet.
+            1.  On the cry of hold or when slain, all arrows will be unnocked.
             1.  Any projectile that strikes a legal target area, unimpeded and point first, shall be considered as telling.  Any projectile that is blocked, deflected, or which strikes in any manner other than point (or edge) first need not be counted.
-            1.  Any bow which is struck by a projectile or melee weapon shall be considered as broken and unusable until a qualified marshal inspects the bow. A qualified marshal is a warranted combat archery marshal or a warranted target archery marshal. This marshal may not be the active user of the bow needing inspection.
+            1.  Any bow which is struck by a projectile or melee weapon shall be considered as broken and unusable until a qualified marshal inspects the bow. A qualified marshal is a warranted combat archery marshal or a warranted target archery marshal.
             1.  Reserved
-            1.  For rapier combat, rapier conventions of combat are to be used.
+            1. For rapier combat, rapier conventions of combat are to be used. In addition, maximum draw weight for crossbows in rapier will be 550 inch/pounds.
             1.  A combat archer (or any other combatant) may yield. If a combatant yields, then he should not be touched.
             1.  Engagement with missile weapons: An archer need not have eye contact with an opponent in order to shoot at them, but should be able to see their face or the front of their body when targeting them.  Inadvertent strikes in the back (such as when the target turns away after the missile is loosed, or when the missile strikes an unintended enemy or friendly target) still count if they are recognized, but it should be expected that, in some cases, the target may not realize they have been struck.
     1. Equestrian
