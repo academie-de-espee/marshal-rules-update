@@ -609,7 +609,7 @@ a horse is not allowed. All other enclosures are allowed at the discretion of th
             1. Youth rapier follows the rapier rules of the list for Atlantia.
         1. Weapons and Armor Standards
             1. Atlantia follows the Corporate Rules for Youth Rapier found at the Society Youth Marshals Web Site at http://www.sca.org/officers/marshal/youthcombat/docs.html, with the following modifications:
-            1. Heavy Rapier blade tips must follow Atlantia Rapier Policies.
+                1. Heavy Rapier blade tips must follow Atlantia Rapier Policies.
         1. Marshaling
             Marshals for Youth Rapier exist within the structure established under the Crown and Earl Marshal of Atlantia. All marshals for Youth rapier activities are warranted, have authority and are expected to conduct themselves as warranted marshals of this Kingdom, according to Kingdom Law and the Policies of the Earl Marshal.
             1. Youth Rapier Marshals
@@ -618,7 +618,7 @@ a horse is not allowed. All other enclosures are allowed at the discretion of th
             1. In addition to completing the Apprentice Marshal process for Youth Rapier, youth rapier marshals must do the following:
                 1. Maintain an active Rapier Marshal warrant
                 1. Maintain an active SCA background check
-                1. Take the Youth Rapier Marshal 101 class at least once every two years.
+                1. Take the Youth Rapier Marshal 101 class at least once every three years.
             1. In addition to normal marshal responsibilities, youth rapier marshals are responsible for the following:
                 1. Teach the pre-authorization class to potential parents and youth combatants.
                 1. Perform authorizations in all divisions
