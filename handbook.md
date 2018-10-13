@@ -1,3 +1,10 @@
+---
+title: The Policies of the Kingdom Earl Marshal
+author: Kingdom Earl Marshal of Atlantia
+date: November 11, 2018
+output: pdf_document
+---
+
 1. The Policies of the Kingdom Earl Marshal
 
     This document incorporates the policies and rules for all marshal activities, not just Armored Combat.  All previous documents for sports other than Armored Combat are null and void.
@@ -66,8 +73,7 @@
                 1.  Apprentice Marshals (also known as Marshals In Training (MITs))
                     1.  Apprentices may not serve in any of the capacities listed above.  They may serve as line marshals with warranted marshals who are training them.
                     1.  Apprentices must meet the requirements listed for all marshals in Item 3.1.3.1.9 (below).
-                    1.  Anyone wishing to join the apprenticeship program must send
-a written request to the Earl Marshal containing all of his or her contact information.
+                    1.  Anyone wishing to join the apprenticeship program must send a written request to the Earl Marshal containing all of his or her contact information.
                     1.  Apprentices must attend at least one marshals' training seminar.
                     1.  Apprentices must make arrangements with a mentor to guide them through the apprenticeship.  This mentor must be a warranted marshal and must be listed in the request for entrance into the apprenticeship program.
                     1.  The apprenticeship program consists of the following:
@@ -363,8 +369,7 @@ A polearm shall be constructed so as to emulate a medieval example.  Allowable e
                 1.  Thrusts to the head, outside of the face, are not telling blows and need not be counted.
             1.  Death.
                 1.  After receiving a killing blow the fighter will cease throwing blows.
-                1.  After receiving a killing blow the fighter will fall to the ground
-                    **or in some other way clearly indicate he has been defeated.**
+                1.  After receiving a killing blow the fighter will fall to the ground or in some other way clearly indicate he has been defeated.
                 1.  In single combat the bout is ended after a killing blow (except double kills).
                 1.  When both fighters, in a one-on-one bout, are killed, they either fight the bout over starting from mutually unwounded conditions or, both take the bout as a loss, depending on the scenario.
             1.  Wounds.
@@ -407,9 +412,7 @@ A polearm shall be constructed so as to emulate a medieval example.  Allowable e
                 1.  If a combatant is engaged and then turns their back, or if they are charging past an opponent, the opponent may throw one blow immediately after the combatant turns away.
                 1.  After that, contact has been broken and the combatant must be engaged again.
                 1.  A defenseless combatant may not be struck. In melees, defenseless is having no weapons and no shield in hand.
-                1. An otherwise defenseless person who remains an active
-                    **line, grabbing spears or blocking enemy movement, etc. will **
-                    **not be considered defenseless and may be stuck.**
+                1. An otherwise defenseless person who remains an active line, grabbing spears or blocking enemy movement, etc. will not be considered defenseless and may be stuck.
             1.  Melees. Individual battles may have their own particular rules and
 
                 conventions besides those stated in this document as long as those rules do not conflict with any of the rules governing combat.
@@ -553,10 +556,11 @@ a horse is not allowed. All other enclosures are allowed at the discretion of th
             1.  Youth Combat will follow the procedures for Sanction and Grievance established by the Office of the Earl Marshal.
             1.  The sole exception to 3.8.2.1 above is that, as necessary, the Marshal in Charge of Youth Combat for an event may remove a youth combatant from the field, tourney or melee based on the conduct of their parent(s) or persons serving in that role, if that conduct is disruptive to the activity or unsafe.
         1. Participation
-            1.  Any Youth Fighter Participant, desiring to participate in the SCA Youth Fighter Program, shall have a responsible adult assume all risks and liability for any harm or medical condition arising from the Youth's participation in these activities. This assumption of responsibility shall be signified by all legal documents required by the SCA and the Kingdom Minister of the List (MoL). For the purposes of youth combat a responsible adult is defined as
-(1) their parent or (2) their court-appointed legal guardian, (3) a person given medical authority over a child by a notarized Youth Combat Medical Authorization for Minors signed by one of the parents, listing the name of the responsible adult and specifically delegating this authority.
-            1.  All Youth Fighters ten (10) years of age and under must have at least one
-(1) responsible adult (per 3.8.3.1) by the list field at all times while the Youth Fighter is engaged on the list field. All Youth Fighters eleven to seventeen (11-17) must have a responsible adult (per 3.8.3.1) on site within sight and sound of the field while the youth is engaged on the list field. The responsible adult never relinquishes responsibility for the minor. The marshals, MOLs, or any other SCA officials do not take responsibility for the minor during YC activities.
+            1.  Any Youth Fighter Participant, desiring to participate in the SCA Youth Fighter Program, shall have a responsible adult assume all risks and liability for any harm or medical condition arising from the Youth's participation in these activities. This assumption of responsibility shall be signified by all legal documents required by the SCA and the Kingdom Minister of the List (MoL). For the purposes of youth combat a responsible adult is defined as:
+                1. Their parent or
+                2. Their court-appointed legal guardian,
+                3. A person given medical authority over a child by a notarized Youth Combat Medical Authorization for Minors signed by one of the parents, listing the name of the responsible adult and specifically delegating this authority.
+            1.  All Youth Fighters ten (10) years of age and under must have at least one (1) responsible adult by the list field at all times while the Youth Fighter is engaged on the list field. All Youth Fighters eleven to seventeen (11-17) must have a responsible adult on site within sight and sound of the field while the youth is engaged on the list field. The responsible adult never relinquishes responsibility for the minor. The marshals, MOLs, or any other SCA officials do not take responsibility for the minor during YC activities.
             1.  Once a Youth has been authorized to participate in Adult Combat-Related Activities, the youth is no longer permitted to participate in the Youth Fighter Program.
             1.  No Youth shall participate in the Youth Fighter Program unless and until the youth has completed the paperwork and waivers necessary as defined by the policies of the Kingdom Minister of the Lists. No Youth shall be permitted to participate in Youth Fighter Program tournaments until the youth has been properly authorized under Kingdom procedures.
             1.  Combatants shall behave in a chivalrous manner, and shall fight according to the Kingdom Conventions of Youth Combat.
