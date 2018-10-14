@@ -431,118 +431,126 @@ A polearm shall be constructed so as to emulate a medieval example.  Allowable e
             #.  A combat archer (or any other combatant) may yield. If a combatant yields, then he should not be touched.
             #.  Engagement with missile weapons: An archer need not have eye contact with an opponent in order to shoot at them, but should be able to see their face or the front of their body when targeting them.  Inadvertent strikes in the back (such as when the target turns away after the missile is loosed, or when the missile strikes an unintended enemy or friendly target) still count if they are recognized, but it should be expected that, in some cases, the target may not realize they have been struck.
     #. Equestrian
-
         Atlantia follows all standards set by SCA policy with the following additions and changes:
         #.  The Deputy Earl Marshal of the Horse
-            #.  The Kingdom Equestrian Officer (KEO) shall be known in Atlantia as the Deputy Earl Marshal of the Horse. The KEO is a deputy of the Kingdom Earl Marshal of Atlantia and shall be warranted by the Kingdom Earl Marshal and The Monarchs of Atlantia.
-            #.  The Deputy Earl Marshal of the Horse (KEO) will oversee the training and warranting of cavalry marshals as well as maintaining a roster of qualified cavalry marshals for events, and a roster of qualified instructors for the required Atlantian cavalry classes.
+            #.  The Kingdom Equestrian Officer (KEO) shall be known in Atlantia as the Deputy Earl Marshal of the Horse.
+            #.  The Deputy Earl Marshal of the Horse (KEO) will oversee the training and warranting of equestrian marshals as well as maintaining a roster of qualified equestrian marshals for events, and a roster of qualified instructors for the required Atlantian equestrian classes.
             #.  The KEO defers all regulation of the authorization documentation to the office of the Kingdom Minister of the List (KMOL), who will issue and track all paperwork necessary for equestrian authorizations.
-        #.  Regional Cavalry Marshals
-            #.  The KEO will warrant a regional marshal for the North Eastern (MD), North Central (VA), Central (NC) and Southern (SC, Augusta, GA) regions of Atlantia, as needed. These shall be known as Regional Cavalry Marshals.
-            #.  The Regional Cavalry Marshals will be responsible for coordinating cavalry activities and events in their region to ensure that each activity and event that include horses are staffed with the necessary marshals and that all regulations are followed.
-            #.  The Regional Cavalry Marshals will also be responsible for assigning a mentor for the MITs in their region. Mentors must be warranted marshals and must agree to mentor the MIT.
-        #.  Equestrian Marshal-in-Charge (EqMIC)
+        #.  Regional Equestrian Marshals
+            #.  The KEO will warrant a regional marshal for MD, VA, NC, and SC, Augusta, GA regions of Atlantia, as needed. These shall be known as Regional Equestrian Marshals.
+            #.  The Regional Equestrian Marshals will be responsible for coordinating with Autocrats and marshals of their region equestrian activities and events in their region to ensure that each activity and event that include horses are staffed with the necessary marshals and that all regulations are followed.
+            #.  The Regional Equestrian Marshals will also be responsible for arranging a mentor for the MITs in their region. Mentors must be warranted marshals and must agree to mentor the MIT.
+        #.  Equestrian Marshal-in-Charge (EqMiC)
             #.  The EqMiC at an event must be a warranted equestrian marshal. The EqMiC is responsible for equestrian activities at the event and all reporting requirements relating to the event. Reporting shall be done as per the requirements of the Earl Marshal of Atlantia.
-            #.  Mounted archery activities can only be conducted by a Mounted Archery Marshal.  Equestrian combat activities (Jousting, Mounted Combat, Mounted Crest Combat) can only be conducted by a Cavalry Marshal authorized to run these equestrian combat activities (i.e. an equestrian combat marshal).
-            #.  EqMICs shall work with event autocrats to arrange for the required additional insurance a minimum of 60 days before an event that includes horses.
-            #.  A warranted equestrian Marshal must be on-site at all times in which equines are present. If the EqMiC must leave the site, a cavalry marshal of sufficient experience must be appointed to act in the place of the EqMiC, in all respects, until the EqMiC returns.
-        #.  Equestrian Marshal Regulations (Cavalry Marshals)
-            #.  Cavalry marshals and cavalry marshals-in-training must attend a Cavalry Marshal class or Unevent session once every two years. The KEO may waive the Cavalry Marshal class in lieu of attending a Cavalry Marshal Seminar (weekend gathering to discuss rules and train marshals).
+                #.  Event and practice reports need to include the number of horses, the number of adults, the number of youth, the number of rentals, the number of authorization, the activities conducted, any accidents (if a human or equine needed medical attention), and any incidents (if a rider fell, a rider or marshal was disciplined, loose equine, damage done by an equine, etc)
+            #.  EqMiCs shall work with event autocrats to arrange for the required additional insurance a minimum of 60 days before an event that includes horses.
+            #.  A warranted equestrian Marshal must be on-site at all times in which equines are present. If the EqMiC must leave the site, an equestrian marshal of sufficient experience must be appointed to act in the place of the EqMiC, in all respects, until the EqMiC returns or until the end of the event.
+        #.  Equestrian Marshal Regulations
+            #.  Equestrian marshals and marshals-in-training must attend Unevent every year to maintain their warrant. Marshals who cannot attend Unevent must contact the KEO no later than 2 weeks following Unevent to arrange a time to discuss the equestrian program updates.
             #.  Becoming an Equestrian Marshal
-                #.  All cavalry marshals will have completed the steps in the Marshal- in-training program (policy section 3.1.3.1.7 above) as required by the Atlantian Earl Marshal before being warranted.
-                #.  Marshals in Training (MiTs) will be responsible for asking for a mentor for the period of training.  The mentor shall be a senior equestrian marshal the MIT can work with on a regular basis (i.e. running local practices and events).  Mentors must be warranted equestrian marshals and must agree to mentor the MiT.
+                #.  Those who want to become an equestrian marshal must take Equestrian Marshal 101 before being entered in the marshal database as a Marshal-in-Training.
+                #.  All Equestrian marshals will have completed the steps in the Marshal-in-training program (Atlantian Book of Policy section 3.1.3.1.7) as required by the Atlantian Earl Marshal before being warranted.
+                #.  Marshals in Training (MiTs) will be responsible for asking their regional marshal for a mentor for the period of training. The mentor shall be an equestrian marshal the MIT can work with on a regular basis (i.e. running local practices and events). Mentors must be warranted equestrian marshals, they must have permission from the KEO before taking on any new MiTs, and must agree to mentor the MiT.
                 #.  Mentors are responsible for updating the regional marshal on the progress of the MiT.
-                #.  The prospective Marshal-in-Training (MiT) will be responsible for holding onto their training paperwork until the MiT is ready to be warranted.  Upon such time as the MiT is ready to be warranted, the MiT and their mentor shall turn in the paperwork to the KEO or the marshal designated by the KEO for taking MIT paperwork.
-            #.  The warranted cavalry marshals will supervise the activities of all ground crew and cavalry marshals-in-training to help insure their safety.
-            #.  All warranted cavalry marshals can marshal riding and lancer level activities.
-            #.  Mounted Archery Marshals must complete the following before becoming warranted to run mounted archery activities:
+                #.  The prospective Marshal-in-Training (MiT) will be responsible for holding onto their training paperwork until the MiT is ready to be warranted. Upon such time as the MiT is ready to be warranted, their mentor shall review the paperwork with the MIT (to ensure the mentor is satisfied with the MIT’s readiness) and then turn in the paperwork to the KEO or the marshal designated by the KEO for taking MIT paperwork.
+            #.  The warranted Equestrian Marshals will supervise the activities of all ground crew and equestrian marshals-in-training to help insure their safety.
+            #.  All warranted Equestrian Marshals can marshal riding and lancer level activities.
+            #.  Mounted archery activities can only be conducted by an Equestrian Archery Marshal. Equestrian combat activities (Jousting, Mounted Combat, and Crest Combat) can only be conducted by an Equestrian Combat Marshal. Equestrian Driving can only be conducted by an Equestrian Driving Marshal.
+            #.  Equestrian Archery Marshals must complete the following before becoming warranted to run mounted archery activities:
                 #.  Take the Archery Marshal 101 class
-                #.  Assist with inspecting archery equipment (bows and arrows) at 3 different events under the supervision of an equestrian archery marshal or a target archery marshal.  These do not have to be mounted archery events, but can be just target archery shoots at a non-equestrian event.
+                #.  Assist with inspecting archery equipment (bows and arrows) at different events under the supervision of an equestrian archery marshal or a target archery marshal. These do not have to be mounted archery events, but can be just target archery shoots at a non-equestrian event.
                 #.  Assist with planning, range set-up, and running mounted archery shoots at 3 events. The intent is for the MiT to assist with all 3 aspects: the planning, the range setup, and running of the shoot.
-            #.  Equestrian Combat Marshals (for marshaling jousting, mounted combat, and mounted crest combat) must complete the following before becoming warranted to run equestrian combat activities:
-                #.  The marshal must: Train under an authorized equestrian combat marshal and assist in running 6 activities.  Within these 6 activities, the marshal must train in both jousting and either mounted combat or mounted crest combat. Each activity must have a minimum of 2 training sessions.  Multi-day events will count as one training activity per day.
-                #.  Once the training is complete, the KEO must receive the training paperwork and will determine final approval for the equestrian combat activity marshal authorization.
+                #.  Once the training is complete, the KEO must receive the training paperwork and will determine final approval for the equestrian archery marshal warrant.
+            #.  Equestrian Combat Marshals (for marshaling jousting, mounted combat, and crest combat) must complete the following before becoming warranted to run equestrian combat activities:
+                #.  The marshal must: Train under an authorized equestrian combat marshal and assist in running 6 activities. Within these 6 activities, the marshal must train in both jousting and either mounted combat or crest combat. Each activity must have a minimum of 2 training sessions. Multi-day events will count as one training activity per day.
+                #.  Once the training is complete, the KEO must receive the training paperwork and will determine final approval for the equestrian combat marshal warrant.
+            #.  Equestrian Driving Marshals must complete the following before becoming a warranted to run driving activities:
+                #.  The marshal must train under an authorized equestrian driving marshal and assist in running 2 driving activities.
+                #.  Once the training is complete, the KEO must receive the training paperwork and will determine final approval for the equestrian driving marshal warrant.
         #.  Ground Crew and Rider Responsibilities
-            #.  Anyone who plans to step out onto the Cavalry List field while horses are present or in the call-forward area must complete a ground crew authorization.  This authorization consists of successful completion of the Cavalry 101 class, practical field training, and any other requirements deemed necessary by the KEO.  The Cavalry 101 class must cover: list field safety, safe weapons handling, and safety and liability with horses.
+            #.  Anyone who plans to step out onto the Equestrian List field while horses are present or in the call-forward area must complete a ground crew authorization. This authorization consists of successful completion of the Equestrian 101 class and practical field training. The Equestrian 101 class must cover: list field safety, safe weapons handling, and safety and liability with horses.
             #.  Any person functioning within close proximity of horses, handling horses or within the arena as the mounted activities are run must be able to demonstrate the ability to move quickly out of the way of horses and riders in an emergency situation.
             #.  Every rider or ground crew must be a current SCA member with the proper waiver on file in Milpitas OR sign a waiver on site with the Minister of the Lists (MOL) at each event. Every rider and ground crew person must also sign the state specific equestrian waiver prior to stepping or riding out on the list field at each event.
         #.  Authorizations
-            #.  All equestrian authorizations must be conducted by two equestrian Marshals.
+            #.  All equestrian authorizations must be conducted by two equestrian Marshals. At least one of the two equestrian marshals must be warranted to marshal the activity the person is attempting to authorize in.
+            #.  All authorizations must start with the question, “Have you read and do you understand the rules?” If the answer is no, they automatically fail the authorization.
+                #.  If they answered no, they can authorize later at the same event, if the EqMiC allows it and there is time, after they have read and understand the rules.
             #.  Atlantia recognizes the following equestrian authorizations:
-                #.  Ground Crew. Authorization consists of passing Cavalry 101 Class, participating in the practical ground crew field training, and have read and understand Atlantian equestrian policy.
+                #.  Ground Crew. Ground Crew must take the Equestrian 101 Class, and participate in the practical ground crew field training.
                 #.  Rider (Ride Only). Rider must complete ground crew authorization and then demonstrate ability to control mount at a walk, trot or canter unencumbered by weapons or armor.
-                #.  Lancer (Games). Rider must have completed the rider authorization and then demonstrate ability to control mount and wield a single weapon safely while performing the games and unencumbered by armor
-                #.  Jousting. Rider must complete the Lancer authorization and then demonstrate the ability to safely compete on the jousting list with appropriate armor, shield, weapon, and equine protection with the addition of another competitor on the other side of the list. Minimum gate is equivalent to the trot or faster
-                #.  Mounted Crest Combat. Rider must complete the Lancer authorization and then demonstrate the ability to safely compete on the list field with appropriate armor, equine protection, crest, and weapon with other competitors on the field. Minimum gate is equivalent to the trot or faster.
-                #.  Mounted Combat. Rider must complete the Lancer authorization and then demonstrate the ability to safely compete on the list field with appropriate armor, weapons, equine protection, with other competitors on the field. Minimum gate is equivalent to the trot or faster.
-                #.  Mounted Archer. Rider must complete the Lancer authorization and then demonstrate the ability of safely handling a bow from horseback. Rider must be able to demonstrate an ability to shoot with the horse moving faster than a walk. This authorization is available to Lancer authorized riders. Minimum gate is equivalent to the trot or faster.
-                    #.  Mounted Archery authorizations are only to be done for equestrians who are already comfortable with a bow.  First time shooters must attend archery practice and build their safe handling ability and competence with a bow.
+                #.  Lancer (Games). Rider must have completed the rider authorization and then demonstrate ability to control mount and wield a single weapon safely while performing the games and unencumbered by armor at a gait of their choosing.
+                #.  Jousting. Rider must complete the Lancer authorization and then demonstrate the ability to safely compete on the jousting list with appropriate armor, shield, weapon, and equine protection with the addition of another competitor on the other side of the list. Minimum gait is equivalent to the canter.
+                #.  Crest Combat. Rider must complete the Lancer authorization and then demonstrate the ability to safely compete on the list field with appropriate armor, equine protection, crest, and weapon with other competitors on the field. Minimum gait is equivalent to the trot or faster.
+                #.  Mounted Combat. Rider must complete the Lancer authorization and then demonstrate the ability to safely compete on the list field with appropriate armor, weapons, equine protection, with other competitors on the field. Minimum gait is equivalent to the trot or faster.
+                #.  Mounted Archer. Rider must complete the Lancer authorization and then demonstrate the ability of safely handling a bow from horseback and regain control of the reins and horse by the end of the lane. Rider must be able to demonstrate an ability to shoot with the horse moving faster than a walk. This authorization is available to Lancer authorized riders. Minimum gait is equivalent to the trot or faster.
+                    #.  Mounted Archery authorizations are only to be done for equestrians who are already comfortable with a bow. First time shooters must attend archery practice and build their safe handling ability and competence with a bow.
                     #.  Mounted Archery authorizations are to be done as follows:
-                        #.  First (on foot), the unmounted rider must show ability to draw the bow with an arrow smoothly/ not fumbling with arrow.  Best case, rider can draw without looking at arrow.
+                        #.  First (on foot), the unmounted rider must show ability to draw the bow with an arrow smoothly/ not fumbling with arrow. Best case, rider can draw without looking at arrow.
                         #.  While on foot, have rider to shoot bow while standing to the side of the horse (behind the front shoulder). Best case - no reaction from mount.
-                        #.  Request rider mount, enter the lane, nock arrow, and shoot.  This must be done at a walk at a minimum, but should be at a trot or higher.  The best case is a controlled and smooth release at trot and canter.
-                #.  Driver. Rider must demonstrate the ability to safely control a horse- drawn cart or chariot while wielding weapons or transporting one passenger who is wielding weapons.
+                        #.  Request rider mount, enter the lane, nock arrow, and shoot. This must be done at a trot or higher. The best case is a controlled and smooth release.
+                #.  Driver. Rider must demonstrate the ability to safely control a horse-drawn cart or chariot while wielding weapons or transporting one passenger who is wielding weapons.
             #.  Minor Equestrian Authorizations and Regulations
                 #.  The Kingdom Earl Marshal, and Deputy Earl Marshal of the Horse or their designate must be present for all minor authorizations and must be notified in advance of the youth authorization.
-                #.  .Minors may not serve as Cavalry Marshals in Training.
-                #.  Minors may authorize as Rider, Lancer, Archer and Driver, but may not authorize in Jousting, Mounted Crest Combat, or Mounted Combat.
-                #.  Minor archers are restricted to combat arrows only and may not use target points.
-                #.  Minors may serve as ground crew for the purpose of waterbearing off the list field or resetting the games between riders. Minors may not hand off weapons to riders or be on the list field when horses are competing or warming up, unless they are an authorized rider.
+                #.  Minors may not serve as Equestrian Marshals in Training.
+                #.  Minors may authorize as Rider, Lancer, Archer and Driver, but may not authorize in Jousting, Crest Combat, or Mounted Combat.
+                #.  Minor archers are restricted to arrows with combat tips only.
+                #.  Minors may serve as ground crew for the purpose of water bearing off the list field or resetting the games between riders. Minors may not hand off weapons to riders or be on the list field when horses are competing or warming up, unless they are an authorized rider.
                 #.  Minors may not serve as horse monitors except under the condition that a warranted equestrian marshal is within hearing or line of sight of the minor and horses being monitored.
                 #.  A parent or legal guardian of minor must be present and within line of site at all times while their minor is mounted.
         #.  Rider Responsibilities at events
             #.  Horse owners will be financially responsible for any damage to a site caused by their horse, truck and trailer or personal equipment, as well as any towing fees accumulated to pull their rig out if stuck at an event.
             #.  Stallions, known biters and kickers policy
-                #.  Owners of stallions must notify the EqMIC of an event or practice prior to arriving that they intend to bring a stallion. Stallions must be marked with yellow ribbons in forelock and tail.
-                #.  Horses that are known biters or known kickers are not allowed without the permission of the Kingdom Earl Marshal or KEO and the event EqMIC. Biters must be marked with red tassel or ribbon on forehead. Kickers must be marked with red tassel or ribbon on tail.
+                #.  Owners of stallions must notify the EqMiC of an event or practice prior to arriving that they intend to bring a stallion. Stallions must be marked with yellow ribbons in forelock and tail.
+                #.  Horses that are known biters or known kickers are not allowed without the permission of the Kingdom Earl Marshal or KEO and the event EqMiC. Biters must be marked with red tassel or ribbon on forehead. Kickers must be marked with red tassel or ribbon on tail.
                 #.  The KEO may ban horses that have caused safety incidents at three or more events or practices from participating in SCA activities in Atlantia. There must be sufficient cause to warrant banning a horse from events.
             #.  Horse Supervision Protocol
-                #.  Horses on site during the day must have a cavalry marshal or cavalry marshal-in-training in line of sight at all times unless they are in a barn within stalls. Horses in stalls must have a cavalry marshal or cavalry marshal-in-training within easy access.
+                #.  Horses on site during the day must have an Equestrian marshal or equestrian marshal-in-training in line of sight at all times unless they are in a barn within stalls. Horses in stalls must have an Equestrian marshal or equestrian marshal-in-training within easy access.
                 #.  Temporary Enclosures
-                    #.  The use of any barbed wire or electric wire to contain or restrain
-a horse is not allowed. All other enclosures are allowed at the discretion of the EqMIC.
+                    #.  The use of any barbed wire or electric wire to contain or restrain a horse is not allowed. All other enclosures are allowed at the discretion of the EqMiC.
                     #.  Enclosures should be clearly marked on each side that the tape is electrified (if applicable).
                     #.  Horses in electric tape enclosures must be used to being restrained in such enclosures prior to attending the event.
-                    #.  The owner(s) of horses restrained within electric tape enclosures must remain on-site and within line of sight entire time horses are within electric tape enclosures or make arrangements for a horse monitor prior to the event.
-                #.  Horses on site during the night must have a cavalry marshal or cavalry marshal-in training within easy access if they are housed in open pens of metal or wood. Horses housed in a barn with stalls must have a cavalry marshal or cavalry marshal-in-training within easy access of the barn.
-                #.  Horse owners are required to care for their own horses during the event, including camping in the cavalry encampment, or make arrangements for a horse monitor prior to the event for the proper care of their horse. The owner or monitor must remain within easy access and hearing (preferably line-of-sight) during overnight hours. This does not mean that horse owners cannot go have feast or hang out at a party in another encampment for a few hours during the evening, as long as someone is watching the owner's horse.
+                    #.  The owner(s) of horses restrained within enclosures must remain on-site or make arrangements for a horse monitor.
+                #.  Horses on site during the night must have an equestrian marshal or equestrian marshal-in training within easy access if they are housed in open pens of metal or wood. Horses housed in a barn with stalls must have an equestrian marshal or equestrian marshal- in-training within easy access of the barn.
+                #.  Horse owners are required to care for their own horses during the event, including camping in the equestrian encampment, or make arrangements for a horse monitor prior to the event for the proper care of their horse. The owner or monitor must remain within easy access and hearing (preferably line-of-sight) during overnight hours. This does not mean that horse owners cannot go have feast or hang out at a party in another encampment for a few hours during the evening, as long as someone is watching the owner’s horse.
             #.  Horse accessible areas at events
-                #.  Riders may ride horses in the Cavalry encampment and the Cavalry list field and a designated path between the encampment and the field.
+                #.  Riders may ride horses in the equestrian encampment and the equestrian list field and a designated path between the encampment and the field.
                 #.  Riders may not ride in any other encampments except as directed for a processional.
-                #.  The EqMIC may consult with the autocrat and designate "riding areas" at their event that may include riding on main thoroughfares between encampments and other areas of a site that can be traversed safely by mounted riders.
+                #.  The EqMiC may consult with the autocrat and designate “riding areas” at their event that may include riding on main thoroughfares between encampments and other areas of a site that can be traversed safely by mounted riders.
         #.  Equipment and Weapons
             #.  Mounted Archery
                 #.  Crossbows are prohibited.
-                #.  The cavalry marshal must be a warranted Atlantian mounted archery marshal and must inspect bows and arrows, verify range set-up, and enforce range safety.
+                #.  The Equestrian Archery Marshal must inspect bows and arrows, verify range set-up, and enforce range safety.
                 #.  Range Set-up
-                    #.  An archery lane 4 to 8 feet wide by minimum 100 feet long with physical barriers on each side is required. A clear area is needed at each end for stopping horses.
-                    #.  A safety area beginning at each end of the lane and going back at least 150 feet at a 45 degree angle is required. If multiple targets are to be used, the lane must be long enough to allow riders to attempt more than one shot safely.
-                    #.  Targets must be placed no closer than 10 yards (30 feet) to the lane's inside barrier. Targets may not be placed closer than 10 yards (30 feet) from each end of the barrier.
+                    #.  An archery lane 4 to 8 feet wide with physical barriers on each side is required. A clear area is needed at each end for stopping horses. Riders may only shoot while in the lane. For multiple targets that the lane needs to be long enough for riders to safely attempt more than one shot.
+                    #.  Unless otherwise approved by the KEO or his/her designated deputy, a safety area with the following minimum boundaries is required:  Beginning at each end of the lane, the boundary of the safety area shall extend at least 150 feet at a 45- degree angle from the shooting lane and then straight back from there.  The safety area (behind the targets) must extend a minimum of 120 feet back from the farthest target.  Exception:  If a solid physical barrier (as described in the Target Archery Section (Para 3.9.3.2.3)) exists, the safety area does not need to extend behind the barrier.
+                    #.  Targets must be placed no closer than 10 yards (30 feet) to the lane’s inside barrier. Targets may not be placed closer than 7 yards (21 feet) from each end of the barrier.
             #.  Mounted Thrown Weapons
                 #.  Only non-living targets are allowed.
-                #.  Javelins (spears) are the only weapons authorized for use with mounted thrown weapons.
                 #.  Equipment Standards
-                    #.  Javelins should be at least four feet in length but not exceed 9 feet.
+                    #.  Javelins (spears) should be at least four feet in length but not exceed 9 feet.
                     #.  Javelin heads must be attached to the shaft as to not come off. The javelin shaft must be sound, free of cracks and without any burrs or rough surfaces that can cut or give splinters to the unprotected hand.
                     #.  No tape can be hanging off the weapon (to avoid becoming tangled with a rider or tack).
-                    #.  Mounted thrown weapons targets may only be soft targets (i.e. foam, hay, or straw bales).
-            #.  Mounted Crest Combat
-                #.  Requires a Mounted Crest Combat or Mounted Combat authorization.
-                #.  An equestrian combat activities marshal must inspect rider's armor and weapons before mounted crest combat begins.
-            #.  Mounted Armored Combat
-                #.  Requires a specific Mounted Armored Combat authorization.
-                #.  An equestrian combat activity marshal must inspect rider's weapons and armor before mounted armored combat begins, including the horse's armor.  Minimum armor requirements are identified in the Society equestrian handbook.
+                    #.  Javelin targets may only be soft targets (i.e. foam, hay, or straw bales).
+            #.  Jousting
+                #.  The left elbow behind the shield must have the point and bones at either side of the elbow covered by rigid material underlain with at least ¼” (6mm) of closed-cell foam or equivalent padding. The shield may assist in providing this coverage, but is unlikely to be capable of providing full coverage by itself.
+                #.  Jousting shields must, at a minimum, be around 168 square inches of surface area (nominally 12” x 14”) to present a reasonable minimum target area to the opponent.
+                #.  Riders should have three lances available in order to be able to place one at the distant end of the list for those times when riders are not returning to a “home end” after each pass.
+        #.  Equestrian Activities
+            #.  Crest Combat
+                #.  Requires a Crest Combat or Mounted Combat authorization.
+                #.  An Equestrian Combat Marshal must inspect rider’s armor and weapons before crest combat begins.
+            #.  Mounted Combat
+                #.  Requires a specific Mounted Combat authorization.
+                #.  An equestrian combat marshal must inspect rider’s weapons and armor before mounted armored combat begins, including the horse’s armor.
             #.  Jousting
                 #.  Requires a specific Jousting authorization.
-                #.  An equestrian combat activities marshal must inspect rider's weapons and armor before jousting begins, including horse's armor. Minimum armor requirements are identified in the Society equestrian handbook.
-                #.  The left elbow behind the shield must have the point and bones at either side of the elbow covered by rigid material underlain with at least �" (6mm) of closed-cell foam or equivalent padding. The shield may assist in providing this coverage, but is unlikely to be capable of providing full coverage by itself.
-                #.  All riders must make left shoulder to left shoulder passes on the tilt barrier and carry the lance in their right hand regardless of the rider's dominant hand.
-                #.  Jousting shields should have at least 165 square inches of surface area (nominally 12" x 14") to present a reasonable minimum target area to the opponent.
-                #.  An equestrian combat marshal must marshal the joust. The marshal of the field shall arrange ground crew appropriate to the circumstances. This should include suitable line judges for scoring, and ground crew to prepare lances for each pass and to assist with the replacement and cleanup of broken tips and tubes.
-                #.  Each rider shall be responsible for checking his or her equipment prior to commencing a match. The marshal of the field should also check the equipment and the field conditions.
-                #.  Riders should have three lances available in order to be able to place one at the distant end of the list for those times when riders are not returning to a "home end" after each pass.
-                #.  Once the match is announced each rider should proceed to their end of the tilting lane and prepare for the pass. After the marshal of the field has indicated to the riders that the list is ready for the pass, once both riders have signaled their readiness, they may make the pass.  Jousting is to be done at the trot or higher.
-                #.  If a rider is having difficulty controlling his or her horse or equipment, or does not follow the conventions of the list, the marshal should suspend further passes until the situation is addressed. Remember safety is the first priority in this activity.
+                #.  An Equestrian Mounted Combat Marshal must inspect rider’s weapons and armor before jousting begins, including horse’s armor.
+                #.  Riders must pass left shoulder to left shoulder down the tilt and carry the lance in their right hand, regardless of the rider’s dominant hand.
+                #.  The marshal of the joust shall arrange ground crew appropriate to the circumstances. This includes suitable line judges for scoring, and ground crew to prepare lances for each pass and to assist with the replacement and cleanup of broken tips and tubes.
+                #.  Each rider shall be responsible for checking his or her equipment prior to inspections. The marshal of the joust should also check the field conditions.
+                #.  Jousting is to be done at the trot or higher.
+                #.  If a rider is having difficulty controlling their horse or equipment, or does not follow the conventions of the list, the marshal should suspend further passes until the situation is addressed.
+                #.  If the riders break tip-to-tip, then no points will be awarded. This is due to both riders using poor form.
     #. Youth Combat
         #. Marshal Responsibility. Marshals for Youth Combat exist within the structure established under the Crown and Earl Marshal of Atlantia.  All marshals for Youth Combat activities are warranted, have authority and are expected to conduct themselves as warranted marshals of this Kingdom, according to Kingdom Law and the Policies of the Earl Marshal.
             #.  Youth Marshals are required to read and understand Society's Two Deep Policy and Background Check Policy (Society Youth Rules Section XIV)
