@@ -101,7 +101,9 @@ output: pdf_document
                     #.  Marshals must provide their names, addresses, phone numbers, email (if any), local group names, membership numbers, and membership expiration to the Earl Marshal.  The Earl Marshal shall be notified when this information changes.
                     #.  Marshals must complete the appropriate training program as set forth by the Earl Marshal.
                     #.  If any officer with the authority (such as the event Autocrat, local, regional, or Kingdom Seneschale) removes sanction from an event, all warranted marshals must leave the site.
-            #.  The Roles of the Marshal There are three basic roles that a marshal may play at an event.  They may be the Marshal In Charge of the event (MIC), they may be the Marshal In Charge of an activity, or they may be a regular marshal (*i.e*., has no supervisory role). The responsibility of each role is delineated below:
+            #.  The Roles of the Marshal
+
+                There are three basic roles that a marshal may play at an event.  They may be the Marshal In Charge of the event (MIC), they may be the Marshal In Charge of an activity, or they may be a regular marshal (*i.e*., has no supervisory role). The responsibility of each role is delineated below:
                 #.  Marshal In Charge of an Event (MIC-Event) The MIC-Event is the marshal who is listed on the event registration form filed by the autocrat with the Kingdom Chronicler.  If the marshal listed on the event registration form is unable to fulfill this commitment, they must inform the autocrat and the group's Knight's Marshal as soon as possible.  A new MIC must be identified and the event registration form updated.
                     #.  The MIC-Event shall oversee all combat at an event (including official practices and published demos).
                     #.  The MIC-Event must ensure that for each marshal related activity there is a marshal warranted in that discipline in charge of that activity.
@@ -161,8 +163,7 @@ output: pdf_document
                     * Any other behavior the Marshal finds inappropriate on the field
             #.  Holds
                 #.  When hold is called, every participant must cease the marshaled activity at once, place their weapons on the ground if applicable, and stand in place, or kneel if directed by the marshal, until directed otherwise by a marshal.
-                #.  The marshal for some group combat activities may declare a
-"bubble hold" option before the activity begins.  In a bubble hold, the marshal may direct participants around the cause for hold to act as informal line marshals, informing other participants who approach the bubble of the perimeter of the hold.  Participants who are directed in this fashion must hold their equipment in a fashion that will indicate that they are not combat ready, *i.e*., holding a bow horizontal or a sword by the blade.
+                #.  The marshal for some group combat activities may declare a "bubble hold" option before the activity begins.  In a bubble hold, the marshal may direct participants around the cause for hold to act as informal line marshals, informing other participants who approach the bubble of the perimeter of the hold.  Participants who are directed in this fashion must hold their equipment in a fashion that will indicate that they are not combat ready, *i.e*., holding a bow horizontal or a sword by the blade.
             #.  Warrants
                 #.  Prospective Marshals must undergo an apprenticeship in a specific discipline in order to supervise that discipline.  This requirement may be waived or modified, at the Earl Marshal's or relevant discipline Deputy Earl Marshal's discretion. The Earl Marshal's office encourages all marshals to cross train in as many disciplines as possible.
                 #.  A Marshal may not be warranted in disciplines in which they are not authorized to participate.  This requirement may be waived, at the Earl Marshal's discretion.
@@ -181,8 +182,7 @@ output: pdf_document
                     #.  A description of problems arising from combat related activities, including the name of offending participants, the nature of the offense, and the resolution.  This report must include any decisions of the marshal's that were overturned by the Crown.
                     #.  Any intervention by higher ranking Marshals (either invited by the MIC or unilateral on the part of the ranking Marshal).
                 #.  Fighter Practice Waivers: Any waiver signed during the course of official local fighter practices shall be collected from the marshals- in-charge of fighter practices by the Knight's Marshal of the hosting group on a monthly basis.
-                    #.  All fighter practice waivers and a fighter practice waiver report form will be submitted by the Knight's Marshal of the hosting group to the Kingdom Waiver Secretary on a quarterly basis, in accordance with the following schedule:  Quarterly fighter practice materials are due April 15 (for fighter practices held between January 1 -- March 31); July 15 (April 1 -- June 30); October 15 (July 1 -- September 30); and January 15 (October
-1 -- December 31).
+                    #.  All fighter practice waivers and a fighter practice waiver report form will be submitted by the Knight's Marshal of the hosting group to the Kingdom Waiver Secretary on a quarterly basis, in accordance with the following schedule:  Quarterly fighter practice materials are due April 15 (for fighter practices held between January 1 -- March 31); July 15 (April 1 -- June 30); October 15 (July 1 -- September 30); and January 15 (October 1 -- December 31).
                     #.  In the event that no fighter practice waivers have been collected at official local fighter practices, a fighter practice waiver report indicating this will be submitted by the Knight's Marshal of the group on the above schedule.  An electronic fighter practice waiver report may be accepted at the discretion of the Kingdom Waiver Secretary in the event that no waivers have been collected.
                 #.  Filing Reports Reports may be filed by US Mail; UPS (or other delivery service which does not require a signature for delivery); by email to the Earl Marshal at EarlMarshal@atlantia.sca.org; or by a form in the appropriate section of the Atlantian Marshal's Website. Reports may be filed by other methods on a case-by-case basis, but only with the approval of the Earl Marshal.  These methods may include fax, same day delivery requiring signature, or hand delivery to the Earl Marshal.
                 #.  Incident Reports Anyone may file an incident report for any problem that they perceive in the execution of combat activities.  This includes: reports by participants about marshals at an event, reports about participants by participants at an event, reports by marshals about participants outside events (specifically including practices announced in the group newsletter), and reports by marshals (other than the MIC-Event) concerning problems with other marshals.  The following guidelines govern incident reports:
@@ -244,10 +244,10 @@ output: pdf_document
                 * Probation: Probation may include special requirements to address the problem but the offender must agree to the conditions of the probation.  The results of violations of probation must be specific.
             #.  Appeals of the Marshal's Court decisions may be appealed to the Society level.
             #.  The Marshal's Court may make the following recommendations (to the Crown):
-                #.  A Court of Chivalry
-                #.  A Court of Courtesy
-                #.  Banishment of all types
-                #.  Revocation of rank and awards.
+                *  A Court of Chivalry
+                *  A Court of Courtesy
+                *  Banishment of all types
+                *  Revocation of rank and awards.
         #.  Summary Problem Resolution
             #.  The Earl Marshal may involve the subject of an investigation in a summary resolution process.
             #.  The Earl Marshal and the subject must both agree to an open ended summary resolution.  The subject agrees to an abbreviated process run directly by the Earl Marshal.
@@ -262,10 +262,10 @@ output: pdf_document
             #.  All submissions must be typed or printed out and must be signed and dated. Electronic submissions must be followed within 15 days of the last activity of an event by typed or printed copies which are signed and dated.
     #. Training
         #.  Deputy Earl Marshal for Training The proficiency of the Marshallate is one of the primary concerns of the Earl Marshal.  In order to foster professionalism and competency, the Deputy Earl Marshal for Training (DEM-Training) position has been created.  The DEM- Training shall be responsible for:
-            #.  Creating and maintaining instructional material.
-            #.  Planning and staffing the track of marshalling classes at each session of the University of Atlantia.
-            #.  Working with the other Deputy Earl Marshals to be sure that the available curricula address the specific needs of that discipline.
-            #.  Training senior marshals in the prepared materials to enable them to serve as instructors.
+            *  Creating and maintaining instructional material.
+            *  Planning and staffing the track of marshalling classes at each session of the University of Atlantia.
+            *  Working with the other Deputy Earl Marshals to be sure that the available curricula address the specific needs of that discipline.
+            *  Training senior marshals in the prepared materials to enable them to serve as instructors.
     #. Authorization
         #.  Armored Combat Authorization Procedures
             #.  Authorization is designed to ensure that all fighters are able to conduct themselves in a safe and courteous manner while on the field of combat.
@@ -294,8 +294,9 @@ output: pdf_document
             #.  Inform the participants in the authorization of how the authorization is to be conducted.
             #.  Ensure that both combatants' armor is legal.
             #.  Neither of the marshals may be fighters who regularly practice with the candidate.
-                1.
-        #.  Authorization for Minors In order for anyone who is 16 or 17 years old to become an authorized fighter in Atlantia outside of Youth Combat, the following procedure must be followed.
+        #.  Authorization for Minors
+
+            In order for anyone who is 16 or 17 years old to become an authorized fighter in Atlantia outside of Youth Combat, the following procedure must be followed.
             #.  The candidate must have either a Minor waiver on file at SCA Corporate Headquarters (blue membership card) or must complete a SCA 'Minor's Consent to Participate and Hold Harmless Agreement (General Waiver for Minors)'.
             #.  For a minor to fight or even practice, either a parent or legal guardian shall be present, or someone holding a notarized Medical Authorization for Minors granting them authority to approve medical treatment shall be present.
             #.  During early training, those who are running the practice must make careful determination as to the minor's physical and emotional maturity.  The variations among minors are considerable.  At this age, many are unready, either physically or emotionally, for SCA combat.  The marshals must be conservative in this respect.  If there is any question, remember that if the minor is truly emotionally ready, they will not react inappropriately to being told to wait a year.  If the marshal is not sure that the minor is ready, they must be told to wait a year.
@@ -306,7 +307,9 @@ output: pdf_document
             #.  All of the paperwork involved in the minor's authorization must be reviewed by the Earl Marshal or designated Deputy Earl Marshal before being processed by the Minister of Lists.
             #.  The front half of the helms and masks of sixteen and seventeen year olds who participate in combat activities, either as armored, rapier or equestrian combatants, combat archers or siege engineers, must be clearly marked with three green dots, no less than 1" in diameter, arranged in a triangular formation forming a trefoil.
     #. Weapons and Armor Standards
-        #. Appearance on the List Field. All equipment or clothing used by participants on the list field must either have a pre-17th Century appearance or be covered in a manner to present such an appearance.
+        #. Appearance on the List Field.
+
+            All equipment or clothing used by participants on the list field must either have a pre-17th Century appearance or be covered in a manner to present such an appearance.
             #. The purpose of this law is not to exclude participants from the list, but to encourage the historical appearance of events. These rules shall be applied with discretion and good judgment to encourage rather than to discourage.
             #. Participants who are residents of another kingdom are considered our guests and are exempt from this ruling provided they meet Society minimum standards.
             #. Newly transplanted subjects of Atlantia are to be granted a four month period of time to come into compliance with these laws.
@@ -317,15 +320,14 @@ output: pdf_document
             #.  Weapon Inspections. The marshal in charge of each bout should visually inspect weapons before each bout unless they are using a method of marking already inspected weapons.  Questionable weapons must be physically inspected prior to combat commencing.  For simple swords, these checks should be extremely brief.  Marshals should pay more attention to padded weapons and thrusting tips.
             #.  Weapon Regulations. Atlantia uses the SCA regulations with the following additions:
                 #.  Polearms
-                    1.
-A polearm shall be constructed so as to emulate a medieval example.  Allowable examples of a medieval emulation would be a padded head in the form of a period weapon, or a split-rattan head in the form of a period weapon.
-                    #.   Atlantia defines an excessively flexible polearm as one that allows the head of the weapon to strike a telling blow to a target despite the intercession of an unyielding block to the haft of the weapon.
+                    #.  A polearm shall be constructed so as to emulate a medieval example.  Allowable examples of a medieval emulation would be a padded head in the form of a period weapon, or a split-rattan head in the form of a period weapon.
+                    #.  Atlantia defines an excessively flexible polearm as one that allows the head of the weapon to strike a telling blow to a target despite the intercession of an unyielding block to the haft of the weapon.
                 #.  Greatswords
                     #.  Greatswords must be 6' or less in overall length
                     #.  The grip must be 18" or less.
                     #.  The portion of the great sword above the quillons (called a ricasso) may be left without edge markings and therefore can be grasped.
                 #.  Spears may not be more than 9 feet long overall.
-                    #.   Mandrake style 2" tips are no longer acceptable as thrusting tips on fiberglass spears. Section VII-D-5 of the Society's Marshal's Handbook is no longer valid in Atlantia.
+                    #.  Mandrake style 2" tips are no longer acceptable as thrusting tips on fiberglass spears. Section VII-D-5 of the Society's Marshal's Handbook is no longer valid in Atlantia.
                 #.  Offensive shields are prohibited
                 #.  During combat, the blade of the sword may not be grasped. Also the striking surface of a mass weapon or thrusting tip may not be grasped.
                 #.  Single-handed weapons shall not be constructed so as to place a thrusting tip or butt spike within four inches of a rigid structure such as a basket hilt, metal pommel, or steel-gauntleted hand.
@@ -413,9 +415,7 @@ A polearm shall be constructed so as to emulate a medieval example.  Allowable e
                 #.  After that, contact has been broken and the combatant must be engaged again.
                 #.  A defenseless combatant may not be struck. In melees, defenseless is having no weapons and no shield in hand.
                 #. An otherwise defenseless person who remains an active line, grabbing spears or blocking enemy movement, etc. will not be considered defenseless and may be stuck.
-            #.  Melees. Individual battles may have their own particular rules and
-
-                conventions besides those stated in this document as long as those rules do not conflict with any of the rules governing combat.
+            #.  Melees. Individual battles may have their own particular rules and conventions besides those stated in this document as long as those rules do not conflict with any of the rules governing combat.
                 #.  No more than four fighters shall attack a single opponent.
                 #.  When a fighter is a member of a formed unit (like a shield wall) that is fighting another formed unit, they may strike and be struck by any opponent in that unit.  If a breakthrough occurs in a segment of the unit, fighters in that segment may both attack and be attacked by passing opponents.
                 #.  A fighter who is struck a telling blow by someone on their side must acknowledge the blow.
@@ -645,9 +645,7 @@ A polearm shall be constructed so as to emulate a medieval example.  Allowable e
     #. Target Archery
         #.  Atlantia uses the Society Target Archery Rules, found at: http://sca.org/ with the following changes & clarifications:
         #.  Equipment Standards
-            #.  Marshals may make exceptions to the equipment standards on a temporary
-
-                basis for new archers & children. These exceptions must be reported to the Deputy Kingdom Earl Marshal for Target Archery. No one falling under these exceptions can win a competition or score official rounds.
+            #.  Marshals may make exceptions to the equipment standards on a temporary basis for new archers & children. These exceptions must be reported to the Deputy Kingdom Earl Marshal for Target Archery. No one falling under these exceptions can win a competition or score official rounds.
             #.  Compound bows and compound crossbows are not allowed.
             #.  Center-shot crossbows are not allowed. A center-shot crossbow is where the bolt passes through the prod, or between two parts of a split prod. It does not matter how little of a center-shot this is.
             #.  Non-period trackless crossbows are not allowed. Trackless crossbows have their string suspended in mid-air, and do not ride on a shelf.
@@ -671,8 +669,7 @@ A polearm shall be constructed so as to emulate a medieval example.  Allowable e
         #.  Traditional Rulings. Archery has a long tradition in Atlantia. Many standards have developed that archers are used to obeying. When these standards are changed without warning, situations may occur. Therefore, the following rulings shall be considered always in effect, UNLESS the marshal running the particular shoot specifies otherwise. Marshals are encouraged, but not required, to publish any changes to these rulings in advance.
             #.  Archers are to straddle the shooting line. Those that sit, kneel, etc are to keep the point of their ammo in the same line as the standing archers when at full draw.
             #.  When an arrow breaks or just touches a dividing line between two scoring zones on a target, it should be scored in the archer's favor.
-            #.  On speed/timed shoots, the call to shoot shall begin with the command
-'loose', and end with the command 'hold'. Archer's may fire from the 'L' of loose, to the 'D' of hold. For each arrow let loose before or after this timing, the archer will forfeit the highest scoring arrow on the target.
+            #.  On speed/timed shoots, the call to shoot shall begin with the command 'loose', and end with the command 'hold'. Archer's may fire from the 'L' of loose, to the 'D' of hold. For each arrow let loose before or after this timing, the archer will forfeit the highest scoring arrow on the target.
             #.  During a timed shoot that calls out multiple targets, the archer may loose a shaft at the last target called until the next target is called. This means that an arrow might be fired at the first target then hit after the second target has been called, but still be considered good.
             #.  When archers are grouped by their Atlantian Rank, it is by the archer's current average (not permanent rank) for the bow type that the archer is shooting that day. An archer who knows that they are shooting better than their current average indicates, may wish to let the marshal know this and place them in a higher category.
             #.  Archers are allowed to switch bows during a competition.
@@ -723,20 +720,19 @@ A polearm shall be constructed so as to emulate a medieval example.  Allowable e
                 #.  If a combatant has been placed on the ground (i.e. loss of leg or foot), the standing opponent may not attack from any angle greater than 120 degrees, central to the forward facing position of the fighter.
             #.  There shall be no combat between Rapier fighters and armored SCA combat fighters.
             #.  Brawling tactics or deliberate and unsafe misuse of weapons is not allowed. Examples include (but are not limited to):
-                #.  Grasping, grappling, tripping, or striking the opponent or the opponent's equipment with one's hand or body. Fleeting contact is permissible, as is parrying or grasping the blade per Society rules.
-                #.  Whipping or chopping with the rapier, dagger, cloak, buckler or anything else held in the fighter's hand.
-                #.  Throwing a cloak over an opponent's face so as to blind the opponent.
-                #.  Striking with any part of the weapon not designed for it, or with any buckler or parrying device not legal for thrusting.
-                #.  Deliberately trapping the blade in any fashion, except as permitted under Society rules.
+                *  Grasping, grappling, tripping, or striking the opponent or the opponent's equipment with one's hand or body. Fleeting contact is permissible, as is parrying or grasping the blade per Society rules.
+                *  Whipping or chopping with the rapier, dagger, cloak, buckler or anything else held in the fighter's hand.
+                *  Throwing a cloak over an opponent's face so as to blind the opponent.
+                *  Striking with any part of the weapon not designed for it, or with any buckler or parrying device not legal for thrusting.
+                *  Deliberately trapping the blade in any fashion, except as permitted under Society rules.
             #.  A hold shall be called whenever a marshal, fighter, or spectator believes conditions warrant it. Such conditions include (but are not limited to):
-                #.  A broken or unsafe weapon, armor, or other equipment.
-                #.  Violations of the rules of combat.
+                *  A broken or unsafe weapon, armor, or other equipment.
+                *  Violations of the rules of combat.
             #.  Combatants or marshals may request a calibration at any time during a Hold.
             #.  A fighter is armed so long as at least one offensive weapon is retained. If a fighter is disarmed, their opponent has the option of allowing them to recover their weapon(s); otherwise, a disarmed fighter must yield.
             #.  A marshal shall, as necessary, warn or remove from the field any fighter whose conduct is deemed unsafe, discourteous or unchivalrous. Examples of unsafe conduct include (but are not limited to):
-                #.  Striking with excessive force or from behind.
-                #.  Problems with acknowledgment of blows.
-                #.  Deliberate misuse of the Rules of Combat to gain advantage over an opponent.
+                *  Striking with excessive force or from behind.
+                *  Problems with acknowledgment of blows.
+                *  Deliberate misuse of the Rules of Combat to gain advantage over an opponent.
             #.  At the end of each bout, the Marshals shall ask each fighter if they are satisfied with the conduct of the bout. If either combatant is dissatisfied with the conduct of the bout, they must state any grievances before walking off the field. Any fighter who leaves the field without stating grievances is declaring him/herself satisfied with the bout.
             #.  All martial sports hold inherent levels of risk. All participants must act with due regard for the safety of all participants and strictly adhere to the rules.
-
