@@ -1,7 +1,7 @@
 ---
 title: The Policies of the Kingdom Earl Marshal
 author: Kingdom Earl Marshal of Atlantia
-date: December 1, 2018
+date: January 28, 2019
 output: pdf_document
 ---
 
@@ -74,12 +74,12 @@ This document incorporates the policies and rules for all marshal activities, no
             #. Warranted marshals with no other role will be assigned as a DKM of their local group.
             #. Local groups may have any number of DKMs.
             #. The DKMs are deputies of the KM. The DKM must train participants in the disciplines that they are warranted in, upon request by those participants in that discipline.  The DKM may offer assistance, but may not mandate participation in training exercises by any participant.
-            #. Upon request by the KM or the MIC-Event, the DKM must assist the MIC-Event with the administration of marshaled activities at events sponsored by the DKM's home group.
+            #. Upon request by the KM or the MIC-Event, the DKM should assist the MIC-Event with the administration of marshaled activities at events sponsored by the DKM's home group.
         #. Marshal-at-Large (NO LONGER IN USE)
             #. The position of Marshal-at-Large is immediately terminated. All Marshals-at-Large in every discipline will be assigned as DKM to their group of residence.
         #. Apprentice Marshals (also known as Marshals In Training (MITs))
             #. Apprentices may not serve in any of the capacities listed above.  They may serve as line marshals with warranted marshals who are training them.
-            #. Apprentices must meet the requirements listed for all marshals in Item 3.1.3.1.9 (below).
+            #. Apprentices must meet the requirements listed for all marshals (See: Responsibilities of all Marshals).
             #. Anyone wishing to join the apprenticeship program must send a written request to the Earl Marshal containing all of his or her contact information.
             #. Apprentices must attend at least one marshals' training seminar.
             #. Apprentices must make arrangements with a mentor to guide them through the apprenticeship.  This mentor must be a warranted marshal and must be listed in the request for entrance into the apprenticeship program.
@@ -114,7 +114,7 @@ This document incorporates the policies and rules for all marshal activities, no
         #. Marshal In Charge of an Event (MIC-Event) The MIC-Event is the marshal who is listed on the event registration form filed by the autocrat with the Kingdom Chronicler.  If the marshal listed on the event registration form is unable to fulfill this commitment, they must inform the autocrat and the group's Knight's Marshal as soon as possible.  A new MIC must be identified and the event registration form updated.
             #. The MIC-Event shall oversee all combat at an event (including official practices and published demos).
             #. The MIC-Event must ensure that for each marshal related activity there is a marshal warranted in that discipline in charge of that activity.
-            #. The MIC-Event must submit an event report (See Event Reports).
+            #. The MIC-Event must submit an event report (See: Event Reports).
             #. Marshals who fail to properly handle their marshal-in-charge commitments will be removed from all marshal positions.
             #. MIC-Events may set specialty parameters to certain battles as long as the parameters are within current rules and explained in writing in the event announcement or in flyers at the door.
             #. For inter-kingdom events, changes to the conventions of either Kingdom must be published in both Kingdom newsletters as per Society Earl Marshal ruling.
@@ -467,7 +467,7 @@ Atlantia follows all standards set by SCA policy with the following additions an
     #. Equestrian marshals and marshals-in-training must attend Unevent every year to maintain their warrant. Marshals who cannot attend Unevent must contact the KEO no later than 2 weeks following Unevent to arrange a time to discuss the equestrian program updates.
     #. Becoming an Equestrian Marshal
         #. Those who want to become an equestrian marshal must take Equestrian Marshal 101 before being entered in the marshal database as a Marshal-in-Training.
-        #. All Equestrian marshals will have completed the steps in the Marshal-in-training program (Atlantian Book of Policy section 3.1.3.1.7) as required by the Atlantian Earl Marshal before being warranted.
+        #. All Equestrian marshals will have completed the steps in the Marshal-in-training program (See "Apprentice Marshals") as required by the Atlantian Earl Marshal before being warranted.
         #. Marshals in Training (MiTs) will be responsible for asking their regional marshal for a mentor for the period of training. The mentor shall be an equestrian marshal the MIT can work with on a regular basis (i.e. running local practices and events). Mentors must be warranted equestrian marshals, they must have permission from the KEO before taking on any new MiTs, and must agree to mentor the MiT.
         #. Mentors are responsible for updating the regional marshal on the progress of the MiT.
         #. The prospective Marshal-in-Training (MiT) will be responsible for holding onto their training paperwork until the MiT is ready to be warranted. Upon such time as the MiT is ready to be warranted, their mentor shall review the paperwork with the MIT (to ensure the mentor is satisfied with the MIT’s readiness) and then turn in the paperwork to the KEO or the marshal designated by the KEO for taking MIT paperwork.
@@ -540,7 +540,7 @@ Atlantia follows all standards set by SCA policy with the following additions an
         #. The Equestrian Archery Marshal must inspect bows and arrows, verify range set-up, and enforce range safety.
         #. Range Set-up
             #. An archery lane 4 to 8 feet wide with physical barriers on each side is required. A clear area is needed at each end for stopping horses. Riders may only shoot while in the lane. For multiple targets that the lane needs to be long enough for riders to safely attempt more than one shot.
-            #. Unless otherwise approved by the KEO or his/her designated deputy, a safety area with the following minimum boundaries is required:  Beginning at each end of the lane, the boundary of the safety area shall extend at least 150 feet at a 45- degree angle from the shooting lane and then straight back from there.  The safety area (behind the targets) must extend a minimum of 120 feet back from the farthest target.  Exception:  If a solid physical barrier (as described in the Target Archery Section (Para 3.9.3.2.3)) exists, the safety area does not need to extend behind the barrier.
+            #. Unless otherwise approved by the KEO or his/her designated deputy, a safety area with the following minimum boundaries is required:  Beginning at each end of the lane, the boundary of the safety area shall extend at least 150 feet at a 45- degree angle from the shooting lane and then straight back from there.  The safety area (behind the targets) must extend a minimum of 120 feet back from the farthest target.  Exception:  If a solid physical barrier (as described in the Target Archery Section) exists, the safety area does not need to extend behind the barrier.
             #. Targets must be placed no closer than 10 yards (30 feet) to the lane’s inside barrier. Targets may not be placed closer than 7 yards (21 feet) from each end of the barrier.
     #. Mounted Thrown Weapons
         #. Only non-living targets are allowed.
@@ -581,7 +581,7 @@ Atlantia follows all standards set by SCA policy with the following additions an
         #. A warranted Youth Marshal must supervise all apprentices activities
 #. Sanctions and Grievance Procedures
     #. Youth Combat will follow the procedures for Sanction and Grievance established by the Office of the Earl Marshal.
-    #. The sole exception to 3.8.2.1 above is that, as necessary, the Marshal in Charge of Youth Combat for an event may remove a youth combatant from the field, tourney or melee based on the conduct of their parent(s) or persons serving in that role, if that conduct is disruptive to the activity or unsafe.
+        #. The sole exception is that, as necessary, the Marshal in Charge of Youth Combat for an event may remove a youth combatant from the field, tourney or melee based on the conduct of their parent(s) or persons serving in that role, if that conduct is disruptive to the activity or unsafe.
 #. Participation
     #. Any Youth Fighter Participant, desiring to participate in the SCA Youth Fighter Program, shall have a responsible adult assume all risks and liability for any harm or medical condition arising from the Youth's participation in these activities. This assumption of responsibility shall be signified by all legal documents required by the SCA and the Kingdom Minister of the List (MoL). For the purposes of youth combat a responsible adult is defined as:
         #. Their parent or
@@ -595,7 +595,7 @@ Atlantia follows all standards set by SCA policy with the following additions an
         #. The Marshallate will not regulate "boffer" combat amongst children under the age of seven years beyond the following:
         #. "Boffer" combat may take place at the discretion of the parents/legal guardians of the children involved and with the approval of the autocrat.
         #. "Boffer" combatants will be restricted to the use of foam-only weapons, with NO rigid components whatsoever.
-        #. A responsible adult (per 3.8.3.1) must be within sight and sound of their child at all times during "boffer" combat.
+        #. A responsible adult must be within sight and sound of their child at all times during "boffer" combat.
 #. Conventions of Combat.
     With the exception of the rules above, Youth Combat follows the rules laid out in the Society's Youth Combat Handbook.  The Handbook may be found on the SCA's Website at: http://www.sca.org/officers/marshal/youthcombat/docs/SocietyYCRules.pdf
 
