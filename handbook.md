@@ -1,7 +1,7 @@
 ---
 title: The Policies of the Kingdom Earl Marshal
 author: Kingdom Earl Marshal of Atlantia
-date: February 15, 2019
+date: December 1, 2019 (Draft)
 output: pdf_document
 ---
 
@@ -615,13 +615,13 @@ The goal of Atlantian Youth Rapier is to recreate pre-17th century fencing.  All
     #. Participants will be divided into the following divisions:
         #. Division 1 will be for youths ages 6-9, and may authorize in plastic rapier.
         #. Division 2 will be for youths ages 10-13, and may authorize in plastic rapier and light rapier.
-        #. Division 3 will be for youths ages 14-17, and may authorize in light rapier and heavy rapier.
+        #. Division 3 will be for youths ages 14-17, and may authorize in light rapier and rapier.
 #. Training
     #. Youths must have a "Permission to Practice" card as issued by the MOL office to practice or train rapier combat.
     #. Adults may train with youths under the following restrictions:
         #. Biological parents, adoptive parents, or any court appointed legal guardian may always work with their youths.
         #. Adults authorized in light rapier may work with youths in Division 1 or Division 2 in controlled practice or training situations.
-        #. Adults authorized in heavy rapier may work with youths in Division 3 using heavy rapier in controlled practice or training situations.
+        #. Adults authorized in rapier may work with youths in Division 3 using rapier in controlled practice or training situations.
         #. Adults working with youths must follow the same weapon and armor standards.
 #. Authorizations
     #. Youths may only participate in tournaments or melees with an authorization.
@@ -641,8 +641,7 @@ The goal of Atlantian Youth Rapier is to recreate pre-17th century fencing.  All
 #. Rules of the List
     #. Youth rapier follows the rapier rules of the list for Atlantia.
 #. Weapons and Armor Standards
-    #. Atlantia follows the Corporate Rules for Youth Rapier found at the Society Youth Marshals Web Site at http://www.sca.org/officers/marshal/youthcombat/docs.html, with the following modifications:
-        #. Heavy Rapier blade tips must follow Atlantia Rapier Policies.
+    #. Youth rapier follows the rapier weapon and armor standards for Atlantia.
 #. Marshaling
     Marshals for Youth Rapier exist within the structure established under the Crown and Earl Marshal of Atlantia. All marshals for Youth rapier activities are warranted, have authority and are expected to conduct themselves as warranted marshals of this Kingdom, according to Kingdom Law and the Policies of the Earl Marshal.
     #. Youth Rapier Marshals
@@ -705,6 +704,13 @@ The goal of Atlantian Youth Rapier is to recreate pre-17th century fencing.  All
 ## Rapier Combat
 
 #. Rapier Authorization Procedures
+    #. Atlantia has the following rapier authorizations:
+        #. Light Rapier
+        #. Rapier
+        #. Rapier (two-handed)
+        #. Cut & Thrust
+        #. Cut & Thrust (two-handed)
+        #. Spear
     #. Authorizations will be conducted under the following conditions:
         #. All authorizations will be held at an SCA event or at an SCA fighter practice.
             #. Authorizations may be held at a fighter practice only with the prior permission of the Deputy Earl Marshal for Rapier Combat.
@@ -722,24 +728,24 @@ The goal of Atlantian Youth Rapier is to recreate pre-17th century fencing.  All
         #. Rapier fighters who move into Atlantia shall obtain an Atlantian authorization prior to participating in rapier combat.
         #. Fighters with a valid authorization from another kingdom who move into Atlantia may trade in for an Atlantian authorization card. See the Policies of the MoL for the procedure.
 #. Rapier Combat Weapons and Armor Standards
-    #. Atlantia follows the Corporate Rules for Rapier in the Society for Creative Anachronism, Incorporated (found at the Society Marshals Web Site at [(http://www.sca.org/officers/marshal/combat/rapier/index.html),](http://www.sca.org/officers/marshal/combat/rapier/index.html) including cut and thrust rapier, with the following modifications:
-        #. No fiberglass blades are allowed.
-        #. No spears are allowed.
-        #. Fighters who choose to participate in Cut & Thrust combat acknowledge that they may be struck with a harder blow than they would normally receive in heavy or light rapier combat, and they should act with the interest of the safety of their opponent in mind.
-        #. In addition to the Society requirements, for cut and thrust rapier combat, the back of the head must also be covered by rigid material, lined by at least 1/4 inch (6mm) of closed cell foam or an equivalent padding.
-        #. In addition to the Society requirements, all heavy rapier and cut and thrust blade tips must include adequate protection against punch-through of the blade. This may include:
+    #. Atlantia follows the Corporate Rules for Rapier in the Society for Creative Anachronism, Incorporated (found at the Society Marshals Web Site at [(http://www.sca.org/officers/marshal/combat/rapier/index.html),](http://www.sca.org/officers/marshal/combat/rapier/index.html), with the following modifications:
+        #. Rubber-tipped spears are allowed.  Steel-headed spears are not allowed.
+        #. Fighters who choose to participate in Cut & Thrust combat acknowledge that they may be struck with a harder blow than they would normally receive in rapier or light rapier combat, and they should act with the interest of the safety of their opponent in mind.
+        #. In addition to the Society requirements, for Cut & Thrust combat, the back of the head must also be covered by rigid material, lined by at least 1/4 inch (6mm) of closed cell foam or an equivalent padding.
+        #. In addition to the Society requirements, all Rapier and Cut & Thrust blade tips must include adequate protection against punch-through of the blade. This may include:
             * A metal disc (such as a washer) placed between the end of the blade and the tip.
             * A nut or other blunt metal object welded to the end of the blade in compliance with the Corporate Rules for Rapier in the Society for Creative Anachronism, Incorporated.
             * Any approach specifically approved by the Deputy Earl Marshal for Rapier Combat.
 #. Conventions of Combat for Rapier Combat
-    #. Definitions.
-        #. A Valid Blow is any thrust with positive force towards the opponent in line with the blade or any draw cut using at least 8" of the blade.
-        #. To be valid, a cut and thrust percussive cut must be delivered with positive force.
-    #. Additional Conventions.
-        #. For cut and thrust bouts, a fighter receiving a leg blow while delivering an incapacitating blow to an area other than the opponent's leg shall be the victor.
+    #. Valid Blow Definitions
+        #. In Rapier and Light Rapier, valid blows are thrusts, draw cuts, and push cuts.
+        #. In Cut & Thrust, valid blows are thrusts, draw cuts, push cuts, and percusive cuts.
+        #. In Spear, valid blows are thrusts.
+        #. Thrusts must be delivered using the tip, with positive force towards the opponent in line with the blade.
+        #. Cuts must be delivered with positive force with the edge to be valid.
+    #. Blow Calling Conventions
+        #. Blow calling is the sole responsibility of the fighter receiving the blows.  Fighters may, at their discretion, call blows good outside of those required.  For example, they may decide to take tip cuts.
         #. A Valid Blow to a hand will disable only the hand. The arm may still be used for parrying, but the hand may not grip, hold, or push.
-        #. Blows must recreate real attacks (thrusts in line with the blade, not slaps; cuts with the edge, not the flat).
-        #. Blow calling is the sole responsibility of the fighter receiving the blows.  Fighters may, at their discretion, call blows good outside of those required.  For example, they may decide to take tip cuts and/or push cuts.
 #. Rules of the List for Rapier Combat
     #. A combatant may decline any challenge without dishonor, and without specifying a reason.  In a tournament bout, this may result in forfeiture of the bout.
     #. Combatants may reject the use of a particular non-standard weapon or parrying device by an opponent, should they deem the weapon or parrying device unsafe.
@@ -761,5 +767,5 @@ The goal of Atlantian Youth Rapier is to recreate pre-17th century fencing.  All
         *  Striking with excessive force or from behind.
         *  Problems with acknowledgment of blows.
         *  Deliberate misuse of the Rules of Combat to gain advantage over an opponent.
-    #. At the end of each bout, the Marshals shall ask each fighter if they are satisfied with the conduct of the bout. If either combatant is dissatisfied with the conduct of the bout, they must state any grievances before walking off the field. Any fighter who leaves the field without stating grievances is declaring him/herself satisfied with the bout.
+    #. At the end of each bout, the Marshals shall ask each fighter if they are satisfied with the conduct of the bout. If either combatant is dissatisfied with the conduct of the bout, they should state any grievances before walking off the field.  Marshals should check in with fighters individually if any issues arise.
     #. All martial sports hold inherent levels of risk. All participants must act with due regard for the safety of all participants and strictly adhere to the rules.
