@@ -1,6 +1,12 @@
-name: CI
+name: Build Handbook PDF
 
-on: [push]
+on:
+  push:
+    branches:
+      - master
+  pull_request:
+    branches: 
+      - master
 
 jobs:
   build:
@@ -15,5 +21,5 @@ jobs:
       run: pandoc -N -V "geometry:left=1.5cm,right=1.5cm,top=1cm,bottom=2cm" -H header.tex handbook.md --toc -o handbook.pdf
     - uses: actions/upload-artifact@v1
       with:
-        name: publish handbook.pdf locally
+        name: atlantia-marshal-handbook.pdf
         path: handbook.pdf
