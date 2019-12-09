@@ -1,7 +1,7 @@
 ---
 title: The Policies of the Kingdom Earl Marshal
 author: Kingdom Earl Marshal of Atlantia
-date: December 1, 2019 (Draft)
+date: December 9, 2019
 output: pdf_document
 ---
 
@@ -710,7 +710,6 @@ The goal of Atlantian Youth Rapier is to recreate pre-17th century fencing.  All
         #. Rapier (two-handed)
         #. Cut & Thrust
         #. Cut & Thrust (two-handed)
-        #. Spear
     #. Authorizations will be conducted under the following conditions:
         #. All authorizations will be held at an SCA event or at an SCA fighter practice.
             #. Authorizations may be held at a fighter practice only with the prior permission of the Deputy Earl Marshal for Rapier Combat.
@@ -729,7 +728,7 @@ The goal of Atlantian Youth Rapier is to recreate pre-17th century fencing.  All
         #. Fighters with a valid authorization from another kingdom who move into Atlantia may trade in for an Atlantian authorization card. See the Policies of the MoL for the procedure.
 #. Rapier Combat Weapons and Armor Standards
     #. Atlantia follows the Corporate Rules for Rapier in the Society for Creative Anachronism, Incorporated (found at the Society Marshals Web Site at [(http://www.sca.org/officers/marshal/combat/rapier/index.html),](http://www.sca.org/officers/marshal/combat/rapier/index.html), with the following modifications:
-        #. Rubber-tipped spears are allowed.  Steel-headed spears are not allowed.
+        #. No spears are allowed.
         #. Fighters who choose to participate in Cut & Thrust combat acknowledge that they may be struck with a harder blow than they would normally receive in rapier or light rapier combat, and they should act with the interest of the safety of their opponent in mind.
         #. In addition to the Society requirements, for Cut & Thrust combat, the back of the head must also be covered by rigid material, lined by at least 1/4 inch (6mm) of closed cell foam or an equivalent padding.
         #. In addition to the Society requirements, all Rapier and Cut & Thrust blade tips must include adequate protection against punch-through of the blade. This may include:
@@ -740,7 +739,6 @@ The goal of Atlantian Youth Rapier is to recreate pre-17th century fencing.  All
     #. Valid Blow Definitions
         #. In Rapier and Light Rapier, valid blows are thrusts, draw cuts, and push cuts.
         #. In Cut & Thrust, valid blows are thrusts, draw cuts, push cuts, and percusive cuts.
-        #. In Spear, valid blows are thrusts.
         #. Thrusts must be delivered using the tip, with positive force towards the opponent in line with the blade.
         #. Cuts must be delivered with positive force with the edge to be valid.
     #. Blow Calling Conventions
