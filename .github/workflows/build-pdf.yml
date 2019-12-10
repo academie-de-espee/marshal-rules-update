@@ -21,5 +21,27 @@ jobs:
       run: pandoc -N -V "geometry:left=1.5cm,right=1.5cm,top=1cm,bottom=2cm" -H header.tex handbook.md --toc -o handbook.pdf
     - uses: actions/upload-artifact@v1
       with:
-        name: atlantia-marshal-handbook.pdf
+        name: atlantia-marshal-handbook
         path: handbook.pdf
+    - name: Create Release
+      id: create_release
+      uses: actions/create-release@v1.0.0
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        tag_name: ${{ github.ref }}
+        release_name: Release ${{ github.sha }}
+        draft: false
+        prerelease: false
+      if: github.event_name == "push" and && github.ref == "master"
+    - name: Upload PDF
+      id: upload-release-asset 
+      uses: actions/upload-release-asset@v1.0.1
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        upload_url: ${{ steps.create_release.outputs.upload_url }}
+        asset_path: ./handbook.pdf
+        asset_name: atlantia-marshal-handbook.pdf
+        asset_content_type: application/pdf
+      if: github.event_name == "push" and && github.ref == "master"
