@@ -29,8 +29,8 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
-        tag_name: ${{ github.sha }}
-        release_name: Rules Update
+        tag_name: draft-${{ github.sha }}
+        release_name: Rules Update ${{ github.sha }}
         draft: false
         prerelease: true
       if: github.event_name == 'push' && github.ref == 'refs/heads/master'
