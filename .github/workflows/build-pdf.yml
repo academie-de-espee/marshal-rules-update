@@ -18,7 +18,7 @@ jobs:
     - name: Install pandoc/texlive
       run: sudo apt install pandoc texlive-xetex
     - name: Run pandoc
-      run: pandoc -N -V "geometry:left=1.5cm,right=1.5cm,top=1cm,bottom=2cm" -H header.tex handbook.md --toc -o handbook.pdf
+      run: pandoc -N -V "geometry:left=1.5cm,right=1.5cm,top=1cm,bottom=2cm" -H header.tex handbook.md --toc -o handbook.pdf -M date="$(date '+%B %e, %Y')"
     - uses: actions/upload-artifact@v1
       with:
         name: atlantia-marshal-handbook

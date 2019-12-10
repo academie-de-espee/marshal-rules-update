@@ -1,5 +1,7 @@
 # marshal-rules-update
 
+Any changes commited to master will automatically be built & published here: [Latest version of this document](https://github.com/academie-de-espee/marshal-rules-update/releases)
+
 ## PREREQS
 ```
 sudo apt install pandoc texlive-xetex
