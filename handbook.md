@@ -3,6 +3,20 @@ title: The Policies of the Kingdom Earl Marshal
 author: Kingdom Earl Marshal of Atlantia
 date: December 21, 2019
 output: pdf_document
+header-includes:
+    \usepackage{enumitem}
+    \setlistdepth{9}
+    \setlist[enumerate,1]{label*=\thesubsection.\arabic*.}
+    \setlist[enumerate,2]{label*=\arabic*.}
+    \setlist[enumerate,3]{label*=\arabic*.}
+    \setlist[enumerate,4]{label*=\arabic*.}
+    \setlist[enumerate,5]{label*=\arabic*.}
+    \setlist[enumerate,6]{label*=\arabic*.}
+    \setlist[enumerate,7]{label*=\arabic*.}
+    \setlist[enumerate,8]{label*=\arabic*.}
+    \setlist[enumerate,9]{label*=\arabic*.}
+    \renewlist{enumerate}{enumerate}{9}
+    \setcounter{section}{2}
 ---
 
 # The Policies of the Kingdom Earl Marshal
