@@ -707,9 +707,9 @@ The goal of Atlantian Youth Rapier is to recreate pre-17th century fencing.  All
     #. Atlantia has the following rapier authorizations:
         #. Light Rapier
         #. Rapier
-        #. Rapier (two-handed)
+        #. Rapier (two-handed sword)
         #. Cut & Thrust
-        #. Cut & Thrust (two-handed)
+        #. Cut & Thrust (two-handed sword)
     #. Authorizations will be conducted under the following conditions:
         #. All authorizations will be held at an SCA event or at an SCA fighter practice.
             #. Authorizations may be held at a fighter practice only with the prior permission of the Deputy Earl Marshal for Rapier Combat.
@@ -726,6 +726,7 @@ The goal of Atlantian Youth Rapier is to recreate pre-17th century fencing.  All
         #. Marshals shall ensure that visitors with an out-of-Kingdom authorization understand and comply with Atlantian rules and conventions.
         #. Rapier fighters who move into Atlantia shall obtain an Atlantian authorization prior to participating in rapier combat.
         #. Fighters with a valid authorization from another kingdom who move into Atlantia may trade in for an Atlantian authorization card. See the Policies of the MoL for the procedure.
+    #. The Kingdom Earl Marshal or Deputy Earl Marshal for Rapier Combat shall warrant a select group of marshals for newly approved authorization forms.  Future authorizations shall follow the standard authorization policies and procedures.
 #. Rapier Combat Weapons and Armor Standards
     #. Atlantia follows the Corporate Rules for Rapier in the Society for Creative Anachronism, Incorporated (found at the Society Marshals Web Site at [(http://www.sca.org/officers/marshal/combat/rapier/index.html),](http://www.sca.org/officers/marshal/combat/rapier/index.html), with the following modifications:
         #. No spears are allowed.
