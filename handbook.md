@@ -1,7 +1,7 @@
 ---
 title: The Policies of the Kingdom Earl Marshal
 author: Kingdom Earl Marshal of Atlantia
-date: December 21, 2019
+date: February 1, 2020
 output: pdf_document
 header-includes:
     \usepackage{enumitem}
