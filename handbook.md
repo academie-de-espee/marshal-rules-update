@@ -746,7 +746,6 @@ The goal of Atlantian Youth Rapier is to recreate pre-17th century fencing.  All
     #. Atlantia follows the Society for Creative Anachronism, Incorporated's "Fencing Marshals’ Handbook" (found at the Society Marshals Web Site at [(http://www.sca.org/officers/marshal/combat/rapier/index.html)](http://www.sca.org/officers/marshal/combat/rapier/index.html), with the following modifications:
         #. Only rubber-headed spears are allowed.
         #. Fighters who choose to participate in Cut & Thrust combat acknowledge that they may be struck with a harder blow than they would normally receive in rapier or light rapier combat, and they should act with the interest of the safety of their opponent in mind.
-        #. In addition to the Society requirements, for Cut & Thrust combat, the back of the head must also be covered by rigid material, lined by at least 1/4 inch (6mm) of closed cell foam or an equivalent padding.
         #. In addition to the Society requirements, all Rapier and Cut & Thrust blade tips must include adequate protection against punch-through of the blade. This may include:
             * A metal disc (such as a washer) placed between the end of the blade and the tip.
             * A nut or other blunt metal object welded to the end of the blade in compliance with the Corporate Rules for Rapier in the Society for Creative Anachronism, Incorporated.
