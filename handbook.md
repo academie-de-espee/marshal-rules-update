@@ -754,7 +754,7 @@ The goal of Atlantian Youth Rapier is to recreate pre-17th century fencing.  All
 #. Conventions of Combat for Rapier Combat
     #. Valid Blow Definitions
         #. In Rapier and Light Rapier, valid blows are thrusts and draw cuts.
-        #. In Cut & Thrust, valid blows are thrusts, draw cuts, and percusive cuts.
+        #. In Cut & Thrust, valid blows are thrusts, draw cuts, and percussive cuts.
         #. The only valid blow with a Rapier Spear is a thrust.
         #. Thrusts must be delivered using the tip, with positive force towards the opponent in line with the blade.
         #. Cuts must be delivered with positive force with the edge to be valid.
