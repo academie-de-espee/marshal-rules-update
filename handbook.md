@@ -748,7 +748,8 @@ The goal of Atlantian Youth Rapier is to recreate pre-17th century fencing.  All
         #. Fighters who choose to participate in Cut & Thrust combat acknowledge that they may be struck with a harder blow than they would normally receive in rapier or light rapier combat, and they should act with the interest of the safety of their opponent in mind.
         #. In addition to the Society requirements, all Rapier and Cut & Thrust blade tips must include adequate protection against punch-through of the blade. This may include:
             * A metal disc (such as a washer) placed between the end of the blade and the tip.
-            * A nut or other blunt metal object welded to the end of the blade in compliance with the Corporate Rules for Rapier in the Society for Creative Anachronism, Incorporated.
+            * A nut or other blunt metal object welded to the end of the blade in compliance with the Society for Creative Anachronism, Incorporated's "Fencing Marshals’ Handbook".
+            * A properly sized Darkwood Rapier tip installed following manufacturer's installation instructions meets this requirement.
             * Any approach specifically approved by the Deputy Earl Marshal for Rapier Combat.
 #. Conventions of Combat for Rapier Combat
     #. Valid Blow Definitions
