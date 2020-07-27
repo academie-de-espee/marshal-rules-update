@@ -784,3 +784,11 @@ The goal of Atlantian Youth Rapier is to recreate pre-17th century fencing.  All
         *  Deliberate misuse of the Rules of Combat to gain advantage over an opponent.
     #. At the end of each bout, the Marshals shall ask each fighter if they are satisfied with the conduct of the bout. If either combatant is dissatisfied with the conduct of the bout, they should state any grievances before walking off the field.  Marshals should check in with fighters individually if any issues arise.
     #. All martial sports hold inherent levels of risk. All participants must act with due regard for the safety of all participants and strictly adhere to the rules.
+
+## Armored Steel Combat
+
+#. Armored Steel Combat in Atlantia shall follow Society regulations, which can be found at http://www.sca.org
+#. The Kingdom Earl Marshal shall warrant a Special Deputy for Armored Steel Combat to oversee all Armored Steel Combat in Atlantia.
+    #. The Special Deputy for Armored Steel Combat will review all event reports, oversee warranting of marshals, and creating and updating training programs for Armored Steel Combat in the Kingdom.
+    #. The Special Deputy for Armored Steel Combat shall act as the final appeal for any sanctions resulting from Armored Steel Combat prior to appealing to the Kingdom Earl Marshal.
+    #. The Special Deputy for Armored Steel Combat can request an event autocrat replace a proposed Armored Steel Combat MIC if they feel that person does not have enough experience as a Armored Steel Combat Marshal to run an event.
