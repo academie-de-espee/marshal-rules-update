@@ -788,7 +788,9 @@ The goal of Atlantian Youth Rapier is to recreate pre-17th century fencing.  All
 ## Armored Steel Combat
 
 #. Armored Steel Combat in Atlantia shall follow Society regulations, which can be found at http://www.sca.org
-#. The Kingdom Earl Marshal shall warrant a Special Deputy for Armored Steel Combat to oversee all Armored Steel Combat in Atlantia.
-    #. The Special Deputy for Armored Steel Combat will review all event reports, oversee warranting of marshals, and creating and updating training programs for Armored Steel Combat in the Kingdom.
-    #. The Special Deputy for Armored Steel Combat shall act as the final appeal for any sanctions resulting from Armored Steel Combat prior to appealing to the Kingdom Earl Marshal.
-    #. The Special Deputy for Armored Steel Combat can request an event autocrat replace a proposed Armored Steel Combat MIC if they feel that person does not have enough experience as a Armored Steel Combat Marshal to run an event.
+    #. The Kingdom Earl Marshal shall warrant a Special Deputy for Armored Steel Combat to oversee all Armored Steel Combat in Atlantia.
+        #. The Special Deputy for Armored Steel Combat will review all event reports, oversee warranting of marshals, and creating and updating training programs for Armored Steel Combat in the Kingdom.
+        #. The Special Deputy for Armored Steel Combat shall act as the final appeal for any sanctions resulting from Armored Steel Combat prior to appealing to the Kingdom Earl Marshal.
+    #. Armored Steel Combat marshals shall consist of  Field Marshals and MIC Marshals
+        #. Field Marshals shall be able to inspect all armor and weapons and marshal combat in the list.
+        #. MIC Marshals may perform all the duties of Field Marshals and be Armored Steel Combat event Marshal In Charge. They are responsible for doing all paperwork and reporting. They shall act as the last point of appeal of any sanction prior to the Special Deputy for Armored Steel Combat.
