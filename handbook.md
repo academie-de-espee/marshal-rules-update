@@ -361,12 +361,34 @@ During all activities, the Marshals running that activity must enforce the rules
         #. Single-handed weapons shall not be constructed so as to place a thrusting tip or butt spike within four inches of a rigid structure such as a basket hilt, metal pommel, or steel-gauntleted hand.
 #. Combat Archery Weapons and Armor Standards
     #. Armor Regulations.
-        #. Armor standards for combat archers are the same as those for armored combat participants except that Demi Gauntlets may be worn on one or both hands in place of the full Gauntlets.
+        #. When utilized in conjunction with armored combat, armored combat armor standards shall apply except that Demi Gauntlets may be worn on one or both hands in place of the full Gauntlets.
         #. When utilized in conjunction with rapier combat, rapier armor standards shall apply. This removes the white diamond rules.
     #. Weapons Regulations. All combat archery weapons (including projectiles) must meet the requirements of the SCA Missile Combat Rules.  The following additional requirements apply in Atlantia:
         #. Arrows/bolts may have a base construction of a fiberglass shaft or Siloflex tubing as described in the SCA Marshals Handbook. All fiberglass shafts must be longitudinally covered with a filament strapping tape and are required to have an 'approved' Anti- Penetration Device (APD) IAW the Society Marshal's Handbook. Shafted arrows/bolts are not required to have APDs when used in Rapier Combat.
         #. Fiberglass shaft arrows/bolts may utilize Baldar Blunt, CUBB and UHMW heads. CUBB and Baldar blunts shall not be used in Rapier Combat.  All ammo used on the rapier field shall have no less than 1 inch of resilient padding after taping. This must be added in front of the blunt and be at least the same diameter as the blunt.
         #. Siloflex arrows may be gleaned and fired again. A warranted marshal must inspect all other arrows prior to reuse. All arrows shall be clearly marked for identification with the name of the user, home branch and kingdom
+        #. Rubber Band Gun (RBG) regulations
+            #. RBGs many only be used in conjuntion with rapier combat.
+            #. RBGs must look like a period muzzle-loading weapon dated before 1600CE.
+	    #. RBGS must be made of sturdy, lightweight materials that will stand up to normal combat with all edges and corners are smoothed off and that there are no splinters or cracks.
+            #. RGBs or similar apparatus that fires flexible projectiles using the elasticity of the projectiles as the sole propulsion force may not have a draw strength of greater than 30 lbs (13.6 kg) per projectile.
+        #. RBG Ammunition (referred to as RGB ammo) regulations
+            #. RGB ammo must be made from commercially available rubber tubing and must not contain any metal parts.
+            #. RGB ammo must not use any rigid materials beyond the minimum required to join the ends together.
+            #. Any rigid materials used to join the ends together must be covered and smoved by vinyl duct tape or plastic shrink wrapping.
+            #. RGB ammo must not be filled with sand or liquids.
+            #. RGB ammo must be individually marked to identify the owner.
+            #. RGB ammo must be inspected and used with a specified weapon.
+            #. RGB ammo may not be shared between weapons without reinspect.
+        #. Use of RGBs
+            #. Marshals You can only use an RBG if it is safe to do so - which means that marshals must be armoured, and un-armoured spectators must be kept further away than the effective range of the weapon.
+            #. RGBs must be unloaded or safely discharged into the ground prior to any participant removing their masks or marshals removing their safety goggles.
+            #. A shot from an RGB that strikes a weapon or rigid defensive object is considered destroyed and may not be used until the user has resurrected.
+            #. A shot from an RGB that strikes a non-rigid defensive object, such as a cloak, is considered to have gone through the defensive object and hit the person behind the defensive object.
+            #. There is no minimum range for an RGB.
+            #. Participants may not aim RGBs at the back of anyone's head.
+            #. RGBs must be unloaded unless the marshals have declared RGBs can be loaded and fired.
+            #. RGBs must be unloaded upon marshal's declaration that RGBs should be unloaded.
 
 ##  Conventions of Combat
 #. Conventions of Combat for Armored Combat
